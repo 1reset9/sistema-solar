@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mercurio_id_fotos_textos">
+        <item>Mercurio.</item>
+        <item>Cráter Doble Anillo. El diámetro exterior es de unos 260 km.</item>
+        <item>Región de jóvenes llanuras lisas salpicadas por pequeños cráteres originadas probablemente por ríos de lava.</item>
+        <item>El tamaño de Mercurio es 2,5 veces menor que el de la Tierra.</item>
+        <item>Representación artística de la nave espacial MESSENGER en órbita de Mercurio.</item>
+        <item>Cuenca Caloris. Es una de las mayores cuencas del Sistema Solar que se formaron por el impacto de otro cuerpo. Se estima un diámetro para su borde dibujado en azul de unos 1.550 km.</item>
+        <item>Imagen coloreada de la Cuenca Caloris mostrada en tonos amarillos. Se cree que las manchas naranjas alrededor de la cuenca son volcanes.</item>
+    </string-array>
+    <string-array name="mercurio_id_fotos_creditos">
+        <item>@string/Credit_NASA_JHU</item>
+        <item>@string/Credit_NASA_JHU</item>
+        <item>@string/Credit_NASA_JHU</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA_JHU</item>
+        <item>@string/Credit_NASA</item>
+    </string-array>
+    <string-array name="venus_id_fotos_textos">
+        <item>Venus está rodeado por muchas nubes que provocan un enorme efecto invernadero en su densa atmósfera.</item>
+        <item>Sonda espacial Mariner 2, fue la primera sonda interplanetaria que tuvo éxito, pasó a 34.000 km de Venus.</item>
+        <item>Comparación del tamaño de la Tierra y de Venus, sus diámetros sólo varían en 639 km.</item>
+        <item>Tres impactos de meteoritos sobre la superficie de Venus.</item>
+        <item>La sonda Pioneer en órbita en Venus.</item>
+        <item>Imagen de la superficie de Venus obtenida por radar por la sonda Magallanes.</item>
+    </string-array>
+    <string-array name="venus_id_fotos_creditos">
+        <item>@string/Credit_NSSDC</item>
+        <item>@string/Credit_NASA_JPL</item>
+        <item>@string/Credit_LPI</item>
+        <item>@string/Credit_NASA_JPL</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA_JPL_Magellan</item>
+    </string-array>
+    <string-array name="tierra_id_fotos_textos">
+        <item>Tierra.</item>
+        <item>Dejando la Tierra, imagen de 2003 de la nave separándose del cohete durante el despegue de la misión de Exploración a Marte.</item>
+        <item>Imagen a color real de la Tierra en la misión MESSENGER.</item>
+        <item>Imagen compuesta para formar un mapa nocturno de la Tierra.</item>
+        <item>Mapa topográfico de la Tierra donde se puede ver la distinta altura sobre el nivel del mar.</item>
+        <item>La Gravedad depende de la masa y la masa de la Tierra no es uniforme. Las partes rojas de la imagen representan zonas donde la Gravedad es más fuerte y las azules donde es más débil.</item>
+        <item>Agujero de la capa de ozono sobre la Antártida, es un área en la estratosfera donde la concentración de ozono disminuye notablemente. El ozono absorbe la luz ultravioleta dañina para los seres vivos.</item>
+    </string-array>
+    <string-array name="tierra_id_fotos_creditos">
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA_JPL</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Licencia_CCA3.0</item>
+        <item>@string/Credit_NASA_JPL_UTCSR</item>
+        <item>@string/Credit_NASA</item>
+    </string-array>
+    <string-array name="luna_id_fotos_textos">
+        <item>Mapa con los aterrizajes de las misiones Apolo.</item>
+        <item>La primera fotografía que se tomó por humanos de la salida de la Tierra en el horizonte de la Luna.</item>
+        <item>El atronauta Charles M. Duke Jr. recogiendo muestras lunares en la misión Apollo 16.</item>
+        <item>Meteorito lunar encontrado en la Tierra en la Antártida. Todos los meteoritos lunares que se han encontrado se formaron hace más de 3 billones de años.</item>
+        <item>Cráter Aitken, con un diámetro de unos 135 km.</item>
+        <item>Datos comparativos entre la Tierra y la Luna.</item>
+        <item>Mapa topográfico de la Luna donde podemos ver las distintas alturas de la superficie.</item>
+        <item>Cráter Shackleton en el polo sur de la Luna. Se estima que el 22 por ciento de la superficie del cráter es hielo. En rojo se muestran las partes más altas y en azul las más profundas.</item>
+    </string-array>
+    <string-array name="luna_id_fotos_creditos">
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_LPI</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_GSFC_DLR_ASU</item>
+        <item>@string/Credit_NASA_Zuber</item>
+    </string-array>
+    <string-array name="marte_id_fotos_textos">
+        <item>Imagen generada por ordenador de un amanecer en el cráter Gale.</item>
+        <item>Imagen de la fina atmósfera de Marte, el cráter Galle se puede ver a la izquierda.</item>
+        <item>El tamaño de Marte es bastante más pequeño que el de la Tierra, siendo su diámetro un 53\u0025 del terrestre y su masa un 11\u0025.</item>
+        <item>El robot Curiosity de la NASA, que puede girar completamente en el sitio 360 grados.</item>
+        <item>La imagen muestra la mayoría de las 17 cámaras del Curiosity.</item>
+        <item>Imagen artística del robot Curiosity investigando la composición de una roca de la superficie.</item>
+        <item>Mapa topográfico de Marte. Podemos distinguir: Volcanes de Tharsis al oeste (incluyendo el Monte Olimpo), Valles Marineris al este de Tharsis, y Hellas en el hemisferio sur.</item>
+        <item>Mapa de Marte en donde se muestra en azul las zonas en las que hay hielo de agua bajo la superficie.</item>
+    </string-array>
+    <string-array name="marte_id_fotos_creditos">
+        <item>@string/Credit_NASA_JPL_Caltech</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA_JPL</item>
+        <item>@string/Credit_NASA_JPL_Caltech</item>
+        <item>@string/Credit_NASA_JPL_Caltech</item>
+        <item>@string/Credit_NASA_JPL_Caltech</item>
+        <item>@string/Credit_NASA_JPL_Caltech</item>
+        <item>@string/Credit_NASA_JPL</item>
+    </string-array>
+    <string-array name="jupiter_id_fotos_textos">
+        <item>Imagen tomada por la sonda Cassini a una distancia aproximada de 10 millones de km.</item>
+        <item>Detalle de las nubes de la atmósfera de Júpiter y de la gran mancha roja.</item>
+        <item>Auroras polares mucho más grandes que la Tierra entera en los polos de Júpiter.</item>
+        <item>Sistema de anillos de Júpiter fotografiado por la sonda Galileo cuando el Sol estaba detrás del planeta y la sonda en la sombra de Júpiter.</item>
+        <item>Comparación entre el tamaño de Júpiter y la Tierra, el diámetro de Júpiter es unas 11 veces mayor.</item>
+        <item>Los cuatro satélites principales de Júpiter, desde el más cercano al más lejano: Io, Europa, Ganymede y Calisto.</item>
+    </string-array>
+    <string-array name="jupiter_id_fotos_creditos">
+        <item>@string/Credit_NASA_JPL_SSI</item>
+        <item>@string/Credit_NASA_JPL_Caltech</item>
+        <item>@string/Credit_NASA_Xray</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA_PP</item>
+    </string-array>
+    <string-array name="saturno_id_fotos_textos">
+        <item>Enorme tormenta que se formó en el hemisferio sur en diciembre de 2010 fotografiada por la sonda Cassini.</item>
+        <item>Comparación entre el tamaño de Saturno y el de la Tierra.</item>
+        <item>Imagen tomada desde la sonda Cassini apuntando en línea al planeta y al Sol mientras la sonda estaba en la sombra de Saturno.</item>
+        <item>Imagen de cerca del anillo A.</item>
+        <item>Satélites Pandora (izquierda) y Prometheus (derecha) junto al anillo F.</item>
+        <item>Auroras sobre el polo norte de Saturno que aparecen en azul cubriendo todo el polo.</item>
+        <item>Concepción artística del anillo descubierto por el telescopio Spitzer. El anillo es muy difuso y refleja poca luz solar pero tiene un diámetro de 300 veces Saturno.</item>
+    </string-array>
+    <string-array name="saturno_id_fotos_creditos">
+        <item>@string/Credit_NASA_JPL_SSI</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA_JPL_SSI</item>
+        <item>@string/Credit_NASA_JPL</item>
+        <item>@string/Credit_NASA_JPL_SSI</item>
+        <item>@string/Credit_Cassini</item>
+        <item>@string/Credit_NASA_JPL_Caltech_Keck</item>
+    </string-array>
+    <string-array name="urano_id_fotos_textos">
+        <item>Montaje de Urano con sus 5 satélites principales: Ariel, Miranda, Titania, Oberon y Umbriel.</item>
+        <item>Comparación del tamaño de Urano con la Tierra.</item>
+        <item>Urano, su satélite Ariel y la sombra del satélite sobre Urano en esta imagen del Hubble.</item>
+        <item>Imagen de Urano mostrando bandas de nubes, anillos y algunos satélites.</item>
+        <item>Aurora de Urano en línea con sus anillos.</item>
+        <item>Imagen de Urano tomada por el telescopio espacial Hubble.</item>
+    </string-array>
+    <string-array name="urano_id_fotos_creditos">
+        <item>@string/Credit_NASA_JPL</item>
+        <item>@string/Credit_NASA_JPL</item>
+        <item>@string/Credit_NASA_STSI</item>
+        <item>@string/Credit_NASA_STSI</item>
+        <item>@string/Credit_NASA_JPL</item>
+        <item>@string/Credit_NASA_STSI</item>
+    </string-array>
+    <string-array name="neptuno_id_fotos_textos">
+        <item>Imagen tomada por la sonda Voyager 2 a 7 millones de km de Neptuno.</item>
+        <item>Tormentas en la ventosa atmósfera de Neptuno.</item>
+        <item>Nubes captadas por la sonda Voyager 2 cuando estaba cerca de su aproximación máxima al planeta.</item>
+        <item>Composición de 4 imagenes en las que se ve el tránsito de Despina por Neptuno. Las imágenes están separadas 9 minutos.</item>
+        <item>Neptuno junto a su satélite más grande: Tritón.</item>
+        <item>La sonda espacial Voyager 2 ha sido la única que ha llegado a Neptuno.</item>
+    </string-array>
+    <string-array name="neptuno_id_fotos_creditos">
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA_PP</item>
+        <item>@string/Credit_NASA_JPL_Ted</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA</item>
+    </string-array>
+    <string-array name="sol_id_fotos_textos">
+        <item>Erupción solar de plasma.</item>
+        <item>Imagen ultravioleta de arcos brillantes de gas que fluyen alrededor de las manchas solares.</item>
+        <item>Bucles solares que abarcan 30 veces el diámetro de la Tierra. La mayor parte del calentamiento se produce bajo la corona cerca de la base de los bucles.</item>
+        <item>Eclipse parcial de Sol.</item>
+        <item>Eclipse total de Sol.</item>
+        <item>Eclipse de Sol fotografiado desde la estación espacial MIR.</item>
+        <item>Secuencia de imágenes que muestran el tránsito de Venus por delante del Sol.</item>
+    </string-array>
+    <string-array name="sol_id_fotos_creditos">
+        <item>@string/Credit_NASA_ESA</item>
+        <item>@string/Credit_GSFC</item>
+        <item>@string/Credit_NASA</item>
+        <item>@string/Credit_NASA_Science</item>
+        <item>@string/Credit_eclipse_total</item>
+        <item>@string/Credit_CNES</item>
+        <item>@string/Credit_NASA_SDO</item>
+    </string-array>
+    <string-array name="spinnerCompararPlanetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+    </string-array>
+
+</resources>

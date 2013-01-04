@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Estructura -->
+
+        <Button
+            android:id="@+id/VerUranoTextoEstructura"
+            style="@style/botonVer"
+            android:text="@string/titulo_estructura_completa" />
+
+        <TextView
+            android:id="@+id/UranoTextoEstructura1T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_estructura1" />
+
+        <TableLayout
+            android:id="@+id/UranoTextoEstructura2Tabla"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/urano_texto_estructura2" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/urano_texto_estructura3" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/urano_texto_estructura4" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/urano_texto_estructura5" />
+            </TableRow>
+        </TableLayout>
+
+        <ImageView
+            android:id="@+id/UranoTextoEstructura3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/urano_texto_estructura_imagen1" />
+
+        <TextView
+            android:id="@+id/UranoTextoEstructura4T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_estructura6" />
+
+        <Button
+            android:id="@+id/OcultarUranoTextoEstructura"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Atmósfera -->
+
+        <Button
+            android:id="@+id/VerUranoTextoAtmosfera"
+            style="@style/botonVer"
+            android:text="@string/titulo_atmosfera" />
+
+        <TextView
+            android:id="@+id/UranoTextoAtmosfera1T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_atmosfera" />
+
+        <Button
+            android:id="@+id/OcultarUranoTextoAtmosfera"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Orbita y Rotacion -->
+
+        <Button
+            android:id="@+id/VerUranoTextoOrbitaRotacion"
+            style="@style/botonVer"
+            android:text="@string/titulo_orbita_rotacion" />
+
+        <TextView
+            android:id="@+id/UranoTextoOrbitaRotacion1T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_orbita_rotacion1" />
+
+        <TextView
+            android:id="@+id/UranoTextoOrbitaRotacion2T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_orbita_rotacion2" />
+
+        <TextView
+            android:id="@+id/UranoTextoOrbitaRotacion3T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_orbita_rotacion3" />
+
+        <TextView
+            android:id="@+id/UranoTextoOrbitaRotacion4T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/urano_texto_orbita_rotacion_imagen1" />
+
+        <ImageView
+            android:id="@+id/UranoTextoOrbitaRotacion5I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/urano_texto_orbita_rotacion_imagen1" />
+
+        <TextView
+            android:id="@+id/UranoTextoOrbitaRotacion6T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_orbita_rotacion4" />
+
+        <Button
+            android:id="@+id/OcultarUranoTextoOrbitaRotacion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Satélites Naturales -->
+
+        <Button
+            android:id="@+id/VerUranoTextoSatelites"
+            style="@style/botonVer"
+            android:text="@string/titulo_satelites_naturales" />
+
+        <TextView
+            android:id="@+id/UranoTextoSatelites1T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_satelites1" />
+
+        <TextView
+            android:id="@+id/UranoTextoSatelites2T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/urano_texto_satelites_imagen1" />
+
+        <ImageView
+            android:id="@+id/UranoTextoSatelites3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/urano_texto_satelites_imagen1" />
+
+        <TextView
+            android:id="@+id/UranoTextoSatelites4C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <TextView
+            android:id="@+id/UranoTextoSatelites5T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_satelites2" />
+
+        <ImageView
+            android:id="@+id/UranoTextoSatelites6I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/urano_texto_satelites_imagen2" />
+
+        <TextView
+            android:id="@+id/UranoTextoSatelites7C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <TextView
+            android:id="@+id/UranoTextoSatelites8T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_satelites3" />
+
+        <Button
+            android:id="@+id/OcultarUranoTextoSatelites"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Sistema de Anillos -->
+
+        <Button
+            android:id="@+id/VerUranoTextoAnillos"
+            style="@style/botonVer"
+            android:text="@string/titulo_anillos" />
+
+        <TextView
+            android:id="@+id/UranoTextoAnillos1T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_anillos1" />
+
+        <ImageView
+            android:id="@+id/UranoTextoAnillos2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/urano_texto_anillos_imagen1" />
+
+        <TextView
+            android:id="@+id/UranoTextoAnillos3T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_anillos2" />
+
+        <Button
+            android:id="@+id/OcultarUranoTextoAnillos"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Observación y Estudio -->
+
+        <Button
+            android:id="@+id/VerUranoTextoObservacionEstudio"
+            style="@style/botonVer"
+            android:text="@string/titulo_observacion_estudio" />
+
+        <TextView
+            android:id="@+id/UranoTextoObservacionEstudio1T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_observacion_estudio1" />
+
+        <TextView
+            android:id="@+id/UranoTextoObservacionEstudio2T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/urano_texto_observacion_estudio_imagen1" />
+
+        <ImageView
+            android:id="@+id/UranoTextoObservacionEstudio3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/urano_texto_observacion_estudio_imagen1" />
+
+        <TextView
+            android:id="@+id/UranoTextoObservacionEstudio4T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_observacion_estudio2" />
+
+        <TextView
+            android:id="@+id/UranoTextoObservacionEstudio5T"
+            style="@style/TextoTexto"
+            android:text="@string/urano_texto_observacion_estudio3" />
+
+        <Button
+            android:id="@+id/OcultarUranoTextoObservacionEstudio"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

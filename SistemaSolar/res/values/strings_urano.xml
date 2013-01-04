@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="urano_texto_estructura1">El modelo más generalizado sobre la estructura es:</string>
+    <string name="urano_texto_estructura2">Núcleo de roca con masa relativamente pequeña, con aproximadamente un 20 por ciento del radio del planeta.</string>
+    <string name="urano_texto_estructura3">Manto helado, un fluido denso que contiene principalmente agua y amoníaco, con una alta conductividad eléctrica.</string>
+    <string name="urano_texto_estructura4">Atmósfera, que hace una transición gradual hacia el fluido de la capa interna.</string>
+    <string name="urano_texto_estructura5">Zona alta de la atmósfera: formada por nubes.</string>
+    <string name="urano_texto_estructura6">Otra característica es que irradia muy poco calor, es el planeta más frío del Sistema Solar, irradia muy poca energía en comparación por ejemplo con Neptuno, que tiene un tamaño y composición parecidos.</string>
+    
+    <string name="urano_texto_atmosfera">Se considera la atmósfera de Urano a la parte más exterior de la envoltura gaseosa, ya que no tiene una superficie sólida bien definida. Se puede dividir en tres capas, la troposfera, la estratosfera y la termosfera, que se extiende hasta unos 50.000 km. La composición es fundamentalmente hidrógeno molecular y helio. El tercer componente más abundante en la atmósfera es el metano que es quien le da ese color agua marina al planeta.</string>
+    
+    <string name="urano_texto_orbita_rotacion1">El tiempo que tarda Urano en dar una vuelta al Sol es 84 años terrestres, siendo la distancia media al Sol unos 3.000 millones de kilómetros. La intensidad de la luz del Sol es unas 400 veces menor que la que llega a la Tierra.</string>
+    <string name="urano_texto_orbita_rotacion2">Tarda en dar una vuelta sobre sí mismo unas 17 horas, sin embargo, al igual que le pasa a otros planetas gigantes tiene unos vientos muy fuertes en la dirección de su rotación que provocan que la atmósfera se mueva más rápido haciendo una rotación entera en unas 14 horas. Los vientos pueden llegar a los 900 km/h.</string>
+    <string name="urano_texto_orbita_rotacion3">Tiene un eje de rotación muy inclinado, está prácticamente de lado respecto al plano del Sistema Solar. Sus polos norte y sur están donde la mayoría de los planetas tienen el ecuador. Esto provoca que cada polo reciba unos 42 años de luz solar seguidos por otros tantos de oscuridad.</string>
+    <string name="urano_texto_orbita_rotacion_imagen1">En la siguiente imagen podemos ver esa inclinación así como el campo magnético que genera el planeta:</string>
+    <string name="urano_texto_orbita_rotacion4">Se especula sobre la causa de que el eje tenga tanta inclinación, se cree que tal vez durante la formación del planeta pudo chocar con él un protoplaneta. Otra posible causa es que las fuerzas gravitatorias ejercidas por otros planetas gigantes le hayan obligado a inclinarse así.</string>
+    
+    <string name="urano_texto_satelites1">Urano tiene 27 satélites naturales conocidos.</string>
+    <string name="urano_texto_satelites_imagen1">En la siguiente imagen podemos ver los satélites Miranda, Ariel, Umbriel y Obrerón:</string>
+    <string name="urano_texto_satelites2">Titania es el más grande pero tiene un radio que es sólo la mitad que el de la Luna, aún así es el octavo satélite más grande del Sistema Solar.</string>
+    <string name="urano_texto_satelites3">Están compuestos aproximadamente a partes iguales por hielo y roca.</string>
+    
+    <string name="urano_texto_anillos1">Al igual que otros planetas gigantes del Sistema Solar Urano tiene un sistema de anillos. Están compuestos por partículas muy oscuras cuyo tamaño varía desde micrómetros hasta fracciones de metro. Se conocen 13 anillos de los que todos menos dos son muy estrechos, teniendo algunos sólo unos cuantos kilómetros de ancho.</string>
+    <string name="urano_texto_anillos2">Parece que no se formaron a la vez que el planeta sino después y pudieron formarse a partir de un satélite que se desintegró con algún impacto.</string>
+    
+    <string name="urano_texto_observacion_estudio1">Fue descubierto con un telescopio en 1781 por William Herschel.</string>
+    <string name="urano_texto_observacion_estudio_imagen1">En la siguiente imagen podemos ver un modelo del telescopio con el que lo descubrió que se encuentra en el William Herschel museum en Bath:</string>
+    <string name="urano_texto_observacion_estudio2">Ha habido sólo una misión de la NASA para investigar el planeta a una distancia corta. Fue la misión Voyager 2 que se lanzó en 1977 y en 1986 hizo su aproximación más cercana a Urano en su camino hacia Neptuno. Descubrió nuevos satélites y anillos. Estudió la estructura y composición de la atmósfera, el clima, el campo magnético y su estructura irregular.</string>
+    <string name="urano_texto_observacion_estudio3">Varias observaciones con el Telescopio Espacial Hubble han detectado la aparición ocasional de tormentas.</string>
+    
+    <string name="urano_video_texto1">Urano es el séptimo planeta del Sistema Solar y el tercero de mayor tamaño.</string>
+    <string name="urano_video_texto2">Aunque es visible a simple vista los astrónomos de la antigüedad no lo catalogaron como un planeta y se descubrió con un telescopio en 1781.</string>
+    <string name="urano_video_texto3">Tiene un sistema de anillos, numerosos satélites y un campo magnético suficientemente fuerte como para desviar la mayor parte del viento solar que le llega. Su eje de rotación está tremendamente  inclinado.</string>
+    <string name="urano_video_texto4">Su nombre se debe a la divinidad griega del cielo: Urano, padre de Cronos (Saturno) y abuelo de Zeus (Júpiter).</string>
+
+</resources>

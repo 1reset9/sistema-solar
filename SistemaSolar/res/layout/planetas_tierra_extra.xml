@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Auroras Polares -->
+
+        <Button
+            android:id="@+id/VerTierraExtraTextoAuroras"
+            style="@style/botonVer"
+            android:text="@string/tierra_texto_extra_auroras_titulo" />
+
+        <TextView
+            android:id="@+id/TierraExtraTextoAurorasT"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_extra_auroras" />
+
+        <ImageView
+            android:id="@+id/TierraExtraTextoAuroras2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tierra_texto_extra_auroras_polares" />
+
+        <Button
+            android:id="@+id/OcultarTierraExtraTextoAuroras"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Formacion -->
+
+        <Button
+            android:id="@+id/VerTierraExtraTextoFormacion"
+            style="@style/botonVer"
+            android:text="@string/tierra_texto_extra_formacion_titulo" />
+
+        <TextView
+            android:id="@+id/Formacion1T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_extra_formacion1" />
+
+        <TextView
+            android:id="@+id/Formacion2T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/tierra_texto_extra_formacion_imagen1" />
+
+        <ImageView
+            android:id="@+id/Formacion3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tierra_texto_extra_formacion1" />
+
+        <TextView
+            android:id="@+id/Formacion4C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <TextView
+            android:id="@+id/Formacion5T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_extra_formacion2" />
+
+        <TextView
+            android:id="@+id/Formacion6T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/tierra_texto_extra_formacion_imagen2" />
+
+        <ImageView
+            android:id="@+id/Formacion7I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tierra_texto_extra_formacion2" />
+
+        <TextView
+            android:id="@+id/Formacion8T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_extra_formacion3" />
+
+        <TextView
+            android:id="@+id/Formacion9T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/tierra_texto_extra_formacion_imagen3" />
+
+        <ImageView
+            android:id="@+id/Formacion10I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tierra_texto_extra_formacion3" />
+
+        <TextView
+            android:id="@+id/Formacion11C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <Button
+            android:id="@+id/OcultarTierraExtraTextoFormacion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Formas Colores -->
+
+        <Button
+            android:id="@+id/VerTierraTextoExtraFormasColores"
+            style="@style/botonVer"
+            android:text="@string/tierra_texto_extra_formas_colores_titulo" />
+
+        <TextView
+            android:id="@+id/TierraTextoExtraFormasColores1T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_extra_formas_colores1" />
+
+        <TextView
+            android:id="@+id/TierraTextoExtraFormasColores2T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_extra_formas_colores2" />
+
+        <ImageView
+            android:id="@+id/TierraTextoExtraFormasColores3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tierra_texto_extra_formas_colores" />
+
+        <Button
+            android:id="@+id/OcultarTierraTextoExtraFormasColores"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

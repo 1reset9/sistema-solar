@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Satélites -->
+
+        <Button
+            android:id="@+id/VerJupiterExtraTextoSatelites"
+            style="@style/botonVer"
+            android:text="@string/jupiter_texto_extra_satelites_titulo" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoSatelites1T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_extra_satelites1" />
+
+        <ImageView
+            android:id="@+id/JupiterExtraTextoSatelites2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_extra_satelites_imagen1" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoSatelites3C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL_DLR" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoSatelites4T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_extra_satelites2" />
+
+        <Button
+            android:id="@+id/OcultarJupiterExtraTextoSatelites"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Ío -->
+
+        <Button
+            android:id="@+id/VerJupiterExtraTextoIo"
+            style="@style/botonVer"
+            android:text="@string/jupiter_texto_extra_io_titulo" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoIo1T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_extra_io1" />
+
+        <ImageView
+            android:id="@+id/JupiterExtraTextoIo2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_extra_io_imagen1" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoIo3C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoIo4T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_extra_io2" />
+
+        <ImageView
+            android:id="@+id/JupiterExtraTextoIo5I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_extra_io_imagen2" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoIo6C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <Button
+            android:id="@+id/OcultarJupiterExtraTextoIo"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Europa -->
+
+        <Button
+            android:id="@+id/VerJupiterExtraTextoEuropa"
+            style="@style/botonVer"
+            android:text="@string/jupiter_texto_extra_europa_titulo" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoEuropa1T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_extra_europa1" />
+
+        <ImageView
+            android:id="@+id/JupiterExtraTextoEuropa2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_extra_europa_imagen1" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoEuropa3C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoEuropa4T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_extra_europa2" />
+
+        <ImageView
+            android:id="@+id/JupiterExtraTextoEuropa5I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_extra_europa_imagen2" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoEuropa6C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <Button
+            android:id="@+id/OcultarJupiterExtraTextoEuropa"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Ganímedes -->
+
+        <Button
+            android:id="@+id/VerJupiterExtraTextoGanimedes"
+            style="@style/botonVer"
+            android:text="@string/jupiter_texto_extra_ganimedes_titulo" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoGanimedes1T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_extra_ganimedes1" />
+
+        <ImageView
+            android:id="@+id/JupiterExtraTextoGanimedes2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_extra_ganimedes_imagen1" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoGanimedes3C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoGanimedes4T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_extra_ganimedes2" />
+
+        <ImageView
+            android:id="@+id/JupiterExtraTextoGanimedes5I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_extra_ganimedes_imagen2" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoGanimedes6C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <Button
+            android:id="@+id/OcultarJupiterExtraTextoGanimedes"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Calisto -->
+
+        <Button
+            android:id="@+id/VerJupiterExtraTextoCalisto"
+            style="@style/botonVer"
+            android:text="@string/jupiter_texto_extra_calisto_titulo" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoCalisto1T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_extra_calisto1" />
+
+        <ImageView
+            android:id="@+id/JupiterExtraTextoCalisto2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_extra_calisto_imagen1" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoCalisto3C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoCalisto4T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_extra_calisto2" />
+
+        <ImageView
+            android:id="@+id/JupiterExtraTextoCalisto5I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_extra_calisto_imagen2" />
+
+        <TextView
+            android:id="@+id/JupiterExtraTextoCalisto6C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <Button
+            android:id="@+id/OcultarJupiterExtraTextoCalisto"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

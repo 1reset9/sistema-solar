@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Estructura -->
+
+        <Button
+            android:id="@+id/VerVenusTextoEstructura"
+            style="@style/botonVer"
+            android:text="@string/titulo_estructura" />
+
+        <TextView
+            android:id="@+id/VenusTextoEstructura"
+            style="@style/TextoTexto"
+            android:text="@string/venus_texto_estructura" />
+
+        <Button
+            android:id="@+id/OcultarVenusTextoEstructura"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Superficie -->
+
+        <Button
+            android:id="@+id/VerVenusTextoSuperficie"
+            style="@style/botonVer"
+            android:text="@string/titulo_superficie" />
+
+        <TextView
+            android:id="@+id/Superficie1T"
+            style="@style/TextoTexto"
+            android:text="@string/venus_texto_superficie1" />
+
+        <TextView
+            android:id="@+id/Superficie2T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/venus_texto_superficie1_imagen1" />
+
+        <ImageView
+            android:id="@+id/Superficie3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_venus_superficie1" />
+
+        <TextView
+            android:id="@+id/Superficie4C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/Superficie5T"
+            style="@style/TextoTexto"
+            android:text="@string/venus_texto_superficie2" />
+
+        <TextView
+            android:id="@+id/Superficie6T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/venus_texto_superficie3" />
+
+        <ImageView
+            android:id="@+id/Superficie7I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_venus_superficie2" />
+
+        <TextView
+            android:id="@+id/Superficie8C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL_ESA" />
+
+        <TextView
+            android:id="@+id/Superficie9T"
+            style="@style/TextoTexto"
+            android:text="@string/venus_texto_superficie4" />
+
+        <Button
+            android:id="@+id/OcultarVenusTextoSuperficie"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Orbita Rotacion -->
+
+        <Button
+            android:id="@+id/VerVenusTextoOrbitaRotacion"
+            style="@style/botonVer"
+            android:text="@string/titulo_orbita_rotacion" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion1T"
+            style="@style/TextoTexto"
+            android:text="@string/venus_texto_orbita_rotacion1" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion2T"
+            style="@style/TextoTexto"
+            android:text="@string/venus_texto_orbita_rotacion2" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion3T"
+            style="@style/TextoTexto"
+            android:text="@string/venus_texto_orbita_rotacion3" />
+
+        <Button
+            android:id="@+id/OcultarVenusTextoOrbitaRotacion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Observacion Estudio -->
+
+        <Button
+            android:id="@+id/VerVenusTextoObservacionEstudio"
+            style="@style/botonVer"
+            android:text="@string/titulo_observacion_estudio" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio1T"
+            style="@style/TextoTexto"
+            android:text="@string/venus_texto_observacion_estudio1" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/venus_texto_observacion_estudio_imagen1" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio3C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio4T"
+            style="@style/TextoTexto"
+            android:text="@string/venus_texto_observacion_estudio2" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio5T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/venus_texto_observacion_estudio3" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio6I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/venus_texto_observacion_estudio_imagen2" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio7C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio8T"
+            style="@style/TextoTexto"
+            android:text="@string/venus_texto_observacion_estudio4" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio88T"
+            style="@style/TextoTexto"
+            android:text="@string/venus_texto_observacion_estudio44" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio9T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/venus_texto_observacion_estudio5" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio10I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/venus_texto_observacion_estudio_imagen3" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio11C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <Button
+            android:id="@+id/OcultarVenusTextoObservacionEstudio"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

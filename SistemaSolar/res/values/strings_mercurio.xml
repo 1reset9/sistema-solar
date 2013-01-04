@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <string name="mercurio_texto_estructura">Mercurio es un cuerpo sólido y rocoso como la Tierra. Está compuesto aproximadamente por un 70 por ciento de material metálico y un 30 por ciento de silicato. Tiene una densidad muy parecida a la de la Tierra, siendo el segundo planeta más denso. Para explicar esta densidad los científicos estiman que el núcleo debe ocupar un 42 por ciento de su volumen, debe estar parcialmente fundido y ser rico en hierro. El manto que rodea al núcleo es de unos 600 km de espesor y la corteza entre 100 km y 200 km.</string>
+    <string name="mercurio_texto_superficie1">La superficie presenta muchos cráteres formados por el impacto de meteoritos y cometas. El tamaño de los cráteres puede variar desde unos cuantos metros hasta miles de kilómetros. Algunos pueden ser relativamente recientes y otros de millones de años, los cuales presentan signos de una fuerte erosión. Presenta también algunas áreas con terreno liso y otras con acantilados de más de 1 km de altura.</string>
+    <string name="mercurio_texto_superficie1_imagen1">En la siguiente imagen podemos ver el cráter de impacto Rembrandt, que es uno de los más grandes del Sistema Solar y el segundo más grande de Mercurio, el borde externo tiene un diámetro de 715 km. Tanto el borde como el interior están cubiertos por numerosos cráteres también de impacto.</string>
+    <string name="mercurio_texto_superficie2">Una de las principales peculiaridades de la superficie de Mercurio es la Cuenca de Caloris de 1.550 km de diámetro. Fue el resultado del impacto de un asteroide.</string>
+    <string name="mercurio_texto_superficie3">Después de su formación la corteza se contrajo, se hizo fuerte, y evitó que el magma alcanzara la superficie, acabando con la actividad volcánica del planeta.</string>
+    <string name="mercurio_texto_superficie4">Algunas observaciones sugieren que puede haber hielo en Mercurio en el fondo de varios cráteres cercanos a los polos, donde nunca ha llegado directamente la luz del sol.</string>
+    <string name="mercurio_texto_superficie4_imagen2">A la izquierda de la siguiente imagen se puede ver una representación coloreada de Mercurio. Se puede distinguir la cuenca Caloris, con forma circular y un color amarillento en la parte superior central de la imagen. La franja blanca es un área de la que aún no disponemos datos suficientes para el análisis. A la derecha se puede ver un mapa preliminar de las llanuras lisas de Mercurio en tonos amarillentos, con un 40 por ciento aproximado de la superficie, y en azul áreas con materiales poco reflectantes en la superficie, como hierro y titanio, abarcando al menos un 15 por ciento de la superficie.</string>
+  
+    <string name="mercurio_texto_orbita_rotacion1">La órbita de Mercurio es la menos circular de todos los planetas del Sistema Solar, en su órbita su distancia al Sol varía entre 46 y 70 millones de km, tardando 88 días en dar una vuelta completa al Sol. Su periodo de rotación, es decir la duración de un día, es de 58 días terrestres.</string>
+    <string name="mercurio_texto_orbita_rotacion2">Ambas características hacen que la temperatura en la superficie pueda variar tanto, de -179 a 427 grados centígrados.</string>
+    <string name="mercurio_texto_orbita_rotacion_imagen">En la siguiente imagen podemos ver el recorrido que sigue Mercurio alrededor del Sol.</string>
+    
+    <string name="mercurio_texto_observacion_estudio1">El nombre proviene del más veloz de los antiguos dioses romanos, Mercurio, el dios del comercio, equivalente al antiguo dios griego Hermes, mensajero de los dioses.</string>
+    <string name="mercurio_texto_observacion_estudio2">Las primeras menciones al planeta son del tercer milenio antes de Cristo por los sumerios. En 1631 Pierre Gassendi observó por primera vez con un telescopio el tránsito de Mercurio cruzando el Sol. En 1956 se comprobó que el periodo de rotación es de 58 días.</string>
+    <string name="mercurio_texto_observacion_estudio3">La primera sonda espacial que visitó Mercurio fue Mariner 10, que fotografió casi el 45% de la superficie.</string>
+    <string name="mercurio_texto_observacion_estudio3_imagen1"></string>
+    <string name="mercurio_texto_observacion_estudio4">La primera nave espacial en orbitar Mercurio fue la sonda Messenger, que ha fotografiado prácticamente todo el planeta haciendo importantes descubrimientos sobre el campo magnético y la corteza.</string>
+    <string name="mercurio_texto_observacion_estudio4_imagen2">En la siguiente imagen podemos ver a los técnicos de la Universidad Johns Hopkins preparando la nave MESSESNGER.</string>
+    
+    <string name="mercurio_video_texto1">Mercurio es el más interno de los planetas del Sistema Solar y también el más pequeño. Su tamaño es 2,5 veces menor que el de la Tierra.</string>
+    <string name="mercurio_video_texto2">La temperatura en la superficie puede alcanzar los 427 grados centígrados. Como su atmósfera es muy fina la superficie no puede mantener la temperatura durante la noche y puede caer hasta los -179 grados centígrados.</string>
+    <string name="mercurio_video_texto3">La superficie recuerda a la de la Luna por presentar muchos cráteres.</string>
+    <string name="mercurio_video_texto4">Su nombre viene del dios romano del comercio.</string>
+    
+</resources>

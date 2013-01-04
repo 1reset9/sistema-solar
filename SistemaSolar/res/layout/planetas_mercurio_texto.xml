@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Estructura -->
+
+        <Button
+            android:id="@+id/VerMercurioTextoEstructura"
+            style="@style/botonVer"
+            android:text="@string/titulo_estructura" />
+
+        <TextView
+            android:id="@+id/MercurioTextoEstructura"
+            style="@style/TextoTexto"
+            android:text="@string/mercurio_texto_estructura" />
+
+        <Button
+            android:id="@+id/OcultarMercurioTextoEstructura"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Superficie -->
+
+        <Button
+            android:id="@+id/VerMercurioTextoSuperficie"
+            style="@style/botonVer"
+            android:text="@string/titulo_superficie" />
+
+        <TextView
+            android:id="@+id/Superficie1T"
+            style="@style/TextoTexto"
+            android:text="@string/mercurio_texto_superficie1" />
+
+        <TextView
+            android:id="@+id/Superficie2T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/mercurio_texto_superficie1_imagen1" />
+
+        <ImageView
+            android:id="@+id/Superficie3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_mercurio_superficie1" />
+
+        <TextView
+            android:id="@+id/Superficie4T"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JHUAPL" />
+
+        <TextView
+            android:id="@+id/Superficie5T"
+            style="@style/TextoTexto"
+            android:text="@string/mercurio_texto_superficie2" />
+
+        <TextView
+            android:id="@+id/Superficie6T"
+            style="@style/TextoTexto"
+            android:text="@string/mercurio_texto_superficie3" />
+
+        <TextView
+            android:id="@+id/Superficie7T"
+            style="@style/TextoTexto"
+            android:text="@string/mercurio_texto_superficie4" />
+
+        <TextView
+            android:id="@+id/Superficie8T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/mercurio_texto_superficie4_imagen2" />
+
+        <ImageView
+            android:id="@+id/Superficie9I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_mercurio_superficie2" />
+
+        <TextView
+            android:id="@+id/Superficie10T"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JHU" />
+
+        <Button
+            android:id="@+id/OcultarMercurioTextoSuperficie"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Orbita Rotacion -->
+
+        <Button
+            android:id="@+id/VerMercurioTextoOrbitaRotacion"
+            style="@style/botonVer"
+            android:text="@string/titulo_orbita_rotacion" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion1T"
+            style="@style/TextoTexto"
+            android:text="@string/mercurio_texto_orbita_rotacion1" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion2T"
+            style="@style/TextoTexto"
+            android:text="@string/mercurio_texto_orbita_rotacion2" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion3T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/mercurio_texto_orbita_rotacion_imagen" />
+
+        <ImageView
+            android:id="@+id/OrbitaRotacion4I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_mercurio_orbita" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion5T"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JHU" />
+
+        <Button
+            android:id="@+id/OcultarMercurioTextoOrbitaRotacion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Observacion Estudio -->
+
+        <Button
+            android:id="@+id/VerMercurioTextoObservacionEstudio"
+            style="@style/botonVer"
+            android:text="@string/titulo_observacion_estudio" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio1T"
+            style="@style/TextoTexto"
+            android:text="@string/mercurio_texto_observacion_estudio1" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio2T"
+            style="@style/TextoTexto"
+            android:text="@string/mercurio_texto_observacion_estudio2" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio3T"
+            style="@style/TextoTexto"
+            android:text="@string/mercurio_texto_observacion_estudio3" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio4I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_mercurio_exploracion1" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio5T"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio6T"
+            style="@style/TextoTexto"
+            android:text="@string/mercurio_texto_observacion_estudio4" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio7T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/mercurio_texto_observacion_estudio4_imagen2" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio8I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_mercurio_exploracion2" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio9T"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <Button
+            android:id="@+id/OcultarMercurioTextoObservacionEstudio"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

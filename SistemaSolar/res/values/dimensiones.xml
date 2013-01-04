@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="texto">25sp</dimen>
+    <dimen name="texto_boton">20sp</dimen>
+    <dimen name="texto_boton_ver_video">25sp</dimen>
+    <dimen name="texto_tab">20sp</dimen>
+    <dimen name="texto_fotos">16sp</dimen>
+    <dimen name="texto_fotos_credito">10sp</dimen>
+    <dimen name="texto_acerca_de">16sp</dimen>
+    <dimen name="texto_titulo">22sp</dimen>
+    <dimen name="texto_titulo_2">20sp</dimen>
+    <dimen name="texto_texto">18sp</dimen> 
+    <dimen name="texto_tabla">16sp</dimen>
+    <dimen name="texto_ejercicios">16sp</dimen>
+        
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_3">3dp</dimen>
+    <dimen name="inicio_padding_L">10dp</dimen>
+    <dimen name="inicio_padding_R">150dp</dimen>
+    
+    <dimen name="boton_marginBottom">5dp</dimen>
+    <dimen name="boton_inicio_marginBottom">5dp</dimen>
+    <dimen name="boton_inicio_padding">10dp</dimen>
+    <dimen name="boton_planetas_padding">10dp</dimen>
+    <dimen name="boton_inicio_borde">1dp</dimen>
+    <dimen name="boton_inicio_bordeRadio">5dp</dimen>
+    <dimen name="boton_height">60dp</dimen>
+    <dimen name="boton_height_inicio">50dp</dimen>
+    <dimen name="boton_margen_inicio1">55dp</dimen>
+    <dimen name="boton_margen_inicio2">110dp</dimen>
+    <dimen name="boton_margen_inicio3">165dp</dimen>
+    <dimen name="boton_titulo_height">50dp</dimen>
+    <dimen name="boton_ver_marginBottom">10dp</dimen>
+    <dimen name="boton_titulo_height_ocultar">35dp</dimen>
+    <dimen name="boton_ocultar_marginBottom">15dp</dimen>
+    <dimen name="boton_ver_video_height">75dp</dimen>
+    <dimen name="boton_ver_video_width">75dp</dimen>
+    <dimen name="boton_ver_video_marginTop">15dp</dimen>
+    
+    <dimen name="tab_height">50dp</dimen>
+    
+    <dimen name="normal_height">70dp</dimen>
+    <dimen name="expanded_height">140dp</dimen>
+    
+    <dimen name="margen_tabla_propiedad">40dp</dimen>
+	<dimen name="margen_tabla">16dp</dimen>
+	<dimen name="spinner_height">40dp</dimen>
+	<dimen name="spinner_marginLeftRight">10dp</dimen>
+	<dimen name="spinner_marginBottom">10dp</dimen>
+	
+	<dimen name="table_borde">1dp</dimen>
+	<dimen name="table_corner_4">4dp</dimen>
+	<dimen name="table_corner_8">8dp</dimen>
+
+</resources>

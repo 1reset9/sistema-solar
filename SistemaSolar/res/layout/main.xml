@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ImageView
+            android:id="@+id/imagen"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/inicio" >
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/imagenFondo"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/inicio_fondo"
+            android:visibility="invisible" >
+        </ImageView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:paddingLeft="@dimen/inicio_padding_L"
+        android:paddingRight="@dimen/inicio_padding_R" >
+
+        <Button
+            android:id="@+id/Boton_SistemaSolar"
+            style="@style/botonInicio.Rojo"
+            android:text="@string/SistemaSolar" />
+
+        <Button
+            android:id="@+id/Boton_Planetas"
+            style="@style/botonInicio"
+            android:layout_marginTop="@dimen/boton_margen_inicio1"
+            android:text="@string/Planetas" />
+
+        <Button
+            android:id="@+id/Boton_Ejercicios"
+            style="@style/botonInicio.Naranja"
+            android:layout_marginTop="@dimen/boton_margen_inicio2"
+            android:text="@string/Ejercicios" />
+
+        <Button
+            android:id="@+id/Boton_AcercaDe"
+            style="@style/botonInicio.Ultimo"
+            android:layout_marginTop="@dimen/boton_margen_inicio3"
+            android:text="@string/Acercade" />
+    </RelativeLayout>
+
+</FrameLayout>

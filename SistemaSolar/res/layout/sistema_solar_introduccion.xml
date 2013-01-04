@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto El Sistema Solar -->
+
+        <Button
+            android:id="@+id/VerIntroduccionSistemaSolar"
+            style="@style/botonVer"
+            android:text="@string/titulo_introduccion_sistema_solar" />
+
+        <TextView
+            android:id="@+id/IntroduccionSistemaSolarT"
+            style="@style/TextoTexto"
+            android:text="@string/introduccion_sistema_solar" />
+
+        <ImageView
+            android:id="@+id/IntroduccionSistemaSolarI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_introduccion_sistema_solar" />
+
+        <TextView
+            android:id="@+id/IntroduccionSistemaSolarC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <Button
+            android:id="@+id/OcultarIntroduccionSistemaSolar"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Ubicación -->
+
+        <Button
+            android:id="@+id/VerIntroduccionUbicacion"
+            style="@style/botonVer"
+            android:text="@string/titulo_introduccion_ubicacion" />
+
+        <TextView
+            android:id="@+id/IntroduccionUbicacionT"
+            style="@style/TextoTexto"
+            android:text="@string/introduccion_ubicacion" />
+
+        <ImageView
+            android:id="@+id/IntroduccionUbicacionI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_introduccion_ubicacion" />
+
+        <TextView
+            android:id="@+id/IntroduccionUbicacionC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <Button
+            android:id="@+id/OcultarIntroduccionUbicacion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Planetas Interiores -->
+
+        <Button
+            android:id="@+id/VerIntroduccionPlanetasInteriores"
+            style="@style/botonVer"
+            android:text="@string/titulo_introduccion_planetas_interiores" />
+
+        <TextView
+            android:id="@+id/IntroduccionPlanetasInterioresT"
+            style="@style/TextoTexto"
+            android:text="@string/introduccion_planetas_interiores" />
+
+        <ImageView
+            android:id="@+id/IntroduccionPlanetasInterioresI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_introduccion_planetas_interiores" />
+
+        <TextView
+            android:id="@+id/IntroduccionPlanetasInterioresC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_LPI" />
+
+        <Button
+            android:id="@+id/OcultarIntroduccionPlanetasInteriores"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Planetas Exteriores -->
+
+        <Button
+            android:id="@+id/VerIntroduccionPlanetasExteriores"
+            style="@style/botonVer"
+            android:text="@string/titulo_introduccion_planetas_exteriores" />
+
+        <TextView
+            android:id="@+id/IntroduccionPlanetasExterioresT"
+            style="@style/TextoTexto"
+            android:text="@string/introduccion_planetas_exteriores" />
+
+        <ImageView
+            android:id="@+id/IntroduccionPlanetasExterioresI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_introduccion_planetas_exteriores" />
+
+        <TextView
+            android:id="@+id/IntroduccionPlanetasExterioresC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_LPI" />
+
+        <Button
+            android:id="@+id/OcultarIntroduccionPlanetasExteriores"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Otros Cuerpos -->
+
+        <Button
+            android:id="@+id/VerIntroduccionOtrosCuerpos"
+            style="@style/botonVer"
+            android:text="@string/titulo_introduccion_otros_cuerpos" />
+
+        <TextView
+            android:id="@+id/IntroduccionOtrosCuerposT"
+            style="@style/TextoTexto"
+            android:text="@string/introduccion_otros_cuerpos1" />
+        
+        <TableLayout
+            android:id="@+id/TablaIntroduccionOtrosCuerpos"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/introduccion_otros_cuerpos2" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/introduccion_otros_cuerpos3" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/introduccion_otros_cuerpos4" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/introduccion_otros_cuerpos5" />
+            </TableRow>
+        </TableLayout>        
+        
+        <Button
+            android:id="@+id/OcultarIntroduccionOtrosCuerpos"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

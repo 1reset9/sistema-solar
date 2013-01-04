@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/padding_10"
+            android:paddingRight="@dimen/padding_10"
+            android:paddingTop="@dimen/padding_10"
+            android:text="@string/acerca_de_texto1"
+            android:textSize="@dimen/texto_acerca_de" />
+
+        <TableLayout
+            android:id="@+id/TablaAcercaDe"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.AcercaDe"
+                    android:text="@string/acerca_de_texto2" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.AcercaDe"
+                    android:text="@string/acerca_de_texto3" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.AcercaDe"
+                    android:text="@string/acerca_de_texto4" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/padding_10"
+            android:paddingLeft="@dimen/padding_10"
+            android:paddingRight="@dimen/padding_10"
+            android:text="@string/acerca_de_texto5"
+            android:textSize="@dimen/texto_acerca_de" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="@integer/rotate4_duration"
+    android:fromDegrees="@integer/rotate2_from_degrees"
+    android:toDegrees="@integer/rotate2_to_degrees" />

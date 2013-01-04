@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Exploracion -->
+
+        <Button
+            android:id="@+id/VerMarteExtraTextoExploracion"
+            style="@style/botonVer"
+            android:text="@string/marte_texto_extra_exploracion_titulo" />
+
+        <TextView
+            android:id="@+id/MarteExtraTextoExploracion1T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_exploracion1" />
+
+        <TextView
+            android:id="@+id/MarteExtraTextoExploracion2T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_exploracion2" />
+
+        <Button
+            android:id="@+id/OcultarMarteExtraTextoExploracion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- 1970-1979 -->
+
+        <Button
+            android:id="@+id/VerMarteExtraTexto70s"
+            style="@style/botonVer"
+            android:text="@string/marte_texto_extra_70s_titulo" />
+
+        <TextView
+            android:id="@+id/Extra70s1T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_70s1" />
+
+        <TextView
+            android:id="@+id/Extra70s2T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_70s2" />
+
+        <TextView
+            android:id="@+id/Extra70s3T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_70s3" />
+
+        <Button
+            android:id="@+id/OcultarMarteExtraTexto70s"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- 1980-1999 -->
+
+        <Button
+            android:id="@+id/VerMarteExtraTexto8090s"
+            style="@style/botonVer"
+            android:text="@string/marte_texto_extra_8090s_titulo" />
+
+        <TextView
+            android:id="@+id/Extra8090s1T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_8090s1" />
+
+        <TextView
+            android:id="@+id/Extra8090s2T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_8090s2" />
+
+        <ImageView
+            android:id="@+id/Extra8090s3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_extra_8090s_imagen1" />
+
+        <TextView
+            android:id="@+id/Extra8090s4C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL_Malin" />
+
+        <Button
+            android:id="@+id/OcultarMarteExtraTexto8090s"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Siglo 21 -->
+
+        <Button
+            android:id="@+id/VerMarteExtraTextos21"
+            style="@style/botonVer"
+            android:text="@string/marte_texto_extra_s21_titulo" />
+
+        <TextView
+            android:id="@+id/s211T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_s211" />
+
+        <TextView
+            android:id="@+id/s212T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/marte_texto_extra_s21_imagen1" />
+
+        <ImageView
+            android:id="@+id/s213I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_extra_s21_imagen1" />
+
+        <TextView
+            android:id="@+id/s214C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/s215T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_s212" />
+
+        <TextView
+            android:id="@+id/s216T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/marte_texto_extra_s21_imagen2" />
+
+        <ImageView
+            android:id="@+id/s217I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_extra_s21_imagen2" />
+
+        <TextView
+            android:id="@+id/s218C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/s219T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_s213" />
+
+        <TextView
+            android:id="@+id/s2110T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/marte_texto_extra_s21_imagen3" />
+
+        <ImageView
+            android:id="@+id/s2111I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_extra_s21_imagen3" />
+
+        <TextView
+            android:id="@+id/s2112C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL_Caltech_Cornell" />
+
+        <TextView
+            android:id="@+id/s2113T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_s214" />
+
+        <TextView
+            android:id="@+id/s2114T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/marte_texto_extra_s21_imagen4" />
+
+        <ImageView
+            android:id="@+id/s2115I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_extra_s21_imagen4" />
+
+        <TextView
+            android:id="@+id/s2116C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <TextView
+            android:id="@+id/s2117T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_s215" />
+
+        <TextView
+            android:id="@+id/s2118T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/marte_texto_extra_s21_imagen5" />
+
+        <ImageView
+            android:id="@+id/s2119I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_extra_s21_imagen5" />
+
+        <TextView
+            android:id="@+id/s2120C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <TextView
+            android:id="@+id/s2121T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_extra_s216" />
+
+        <ImageView
+            android:id="@+id/s2122I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_extra_s21_imagen6" />
+
+        <TextView
+            android:id="@+id/s2123C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL_Malin" />
+
+        <Button
+            android:id="@+id/OcultarMarteExtraTextos21"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

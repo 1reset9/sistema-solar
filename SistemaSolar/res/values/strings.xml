@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+    <string name="app_name">El Sistema Solar</string>
+    <string name="SistemaSolar">Sistema Solar</string>
+    <string name="Planetas">Planetas</string>
+    <string name="Ejercicios">Ejercicios</string>
+    <string name="Acercade">Acerca de</string>
+   
+    <string name="acerca_de_texto1">Con esta aplicación podrás descubrir el Sistema Solar, podrás recorrer sus planetas y principales características a través de videos, numerosas imágenes y riguroso texto. Hay tres secciones:</string>
+    <string name="acerca_de_texto2">Sistema Solar: donde obtendrás información genérica del sistema, información detalla del Sol y podrás comparar las características de los distintos planetas entre sí.</string>
+    <string name="acerca_de_texto3">Planetas: donde obtendrás información detallada sobre cada uno de ellos además de la Luna. Dispondrás de un video introductorio, texto con imágenes, galería de fotos y para varios de ellos un apartado extra con su característica más llamativa.</string>
+    <string name="acerca_de_texto4">Ejercicios:  es una sección con la que podrás demostrar tus conocimientos sobre el Sistema Solar de forma entretenida.</string>
+    <string name="acerca_de_texto5">Se incluyen 10 videos y más de 150 imágenes a todo color, así como una gran cantidad de texto.</string>
+   
+    <string name="Mercurio">Mercurio</string>
+    <string name="Venus">Venus</string>
+    <string name="Tierra">Tierra</string>
+    <string name="Luna">Luna</string>
+    <string name="Marte">Marte</string>
+    <string name="Jupiter">Júpiter</string>
+    <string name="Saturno">Saturno</string>
+    <string name="Urano">Urano</string>
+    <string name="Neptuno">Neptuno</string>
+   
+    <string name="Introduccion">Introducción</string>
+    <string name="Formacion">Formación</string>
+    <string name="Sol">El Sol</string>
+    <string name="Asteroides">Asteroides</string>
+    <string name="PlanetasEnanos">Planetas Enanos</string>
+    <string name="Comparaciones">Comparaciones</string>
+    <string name="CompararPlanetas">Comparar Planetas</string>
+    <string name="OrdenacionTamano">Ordenar según Tamaño</string>
+    <string name="OrdenacionDistancia">Ordenar según Distancia</string>
+   
+    <string name="tab_video">VIDEO</string>
+    <string name="tab_texto">TEXTO</string>
+    <string name="tab_fotos">FOTOS</string>
+    <string name="tab_extra">EXTRA</string>
+   
+    <string name="Credit_NASA">Crédito: NASA</string>
+    <string name="Credit_NASA_JHU">Crédito: NASA/Johns Hopkins University</string>
+    <string name="Credit_NASA_JPL">Crédito: NASA/JPL</string>
+    <string name="Credit_NASA_JPL_Caltech">Crédito: NASA/JPL-Caltech</string>
+    <string name="Credit_NASA_JPL_Caltech_Cornell">Crédito: NASA/JPL-Caltech/Cornell/Arizona State Univ.</string>
+    <string name="Credit_NASA_JPL_ESA">Crédito: NASA/JPL/ESA</string>
+    <string name="Credit_NASA_JPL_Malin">Crédito: NASA/JPL/Malin Space Science Systems</string>
+    <string name="Credit_NASA_JPL_UA">Crédito: NASA/JPL/University of Arizona</string>
+    <string name="Credit_NASA_JPL_Caltech_UA">Crédito: NASA/JPL-Caltech/University of Arizona</string>
+    <string name="Credit_NASA_JPL_SSI">Crédito: NASA/JPL/Space Science Institute</string>
+    <string name="Credit_NASA_JPL_DLR">Crédito: NASA/JPL/DLR</string>
+    <string name="Credit_NASA_JPL_Caltech_Eyes">Crédito: NASA/JPL-Caltech/Eyes</string>
+    <string name="Credit_NASA_JPL_Caltech_Keck">Crédito: NASA/JPL-Caltech/Keck</string>
+    <string name="Credit_NASA_JPL_Ted">Crédito: NASA/JPL/Ted Stryk</string>
+    <string name="Credit_NASA_JHUAPL">Crédito: NASA/JHUAPL/Smithsonian Institution/Carnegie Institution of Washington</string>
+    <string name="Credit_LPI">Crédito: Lunar and Planetary Institute</string>
+    <string name="Licencia_CCA3.0">Licencia: Creative Commons Attribution-Share Alike 3.0 Unported</string>
+    <string name="Credit_NASA_ESA">Crédito: NASA/European Space Agency</string>
+    <string name="Credit_GSFC">Crédito: GSFC</string>
+    <string name="Credit_NASA_Science">Crédito: Science@NASA</string>
+    <string name="Credit_eclipse_total">Crédito: Luc Viatour / www.Lucnix.be</string>
+    <string name="Credit_CNES">Crédito: Centre National d\u0027Etudes Spatiales</string>
+    <string name="Credit_NASA_SDO">Crédito: NASA / SDO</string>
+    <string name="Credit_NSSDC">Crédito: NSSDC Photo Gallery</string>
+    <string name="Credit_NASA_JPL_Magellan">Crédito: Magellan Team, JPL, NASA</string>
+    <string name="Credit_NASA_JPL_UTCSR">Crédito: NASA/JPL/University of Texas Center for Space Research</string>
+    <string name="Credit_GSFC_DLR_ASU">Crédito: GSFC/DLR/ASU</string>
+    <string name="Credit_NASA_Zuber">Crédito: NASA/Zuber, M.T. et al., Nature, 2012</string>
+    <string name="Credit_NASA_Xray">Crédito: X-ray: NASA/CXC/SwRI/R.Gladstone et al.; Optical: NASA/ESA/Hubble Heritage</string>
+    <string name="Credit_NASA_PP">Crédito: NASA Planetary Photojournal</string>
+    <string name="Credit_Galileo">Crédito: The Galileo Project</string>
+    <string name="Credit_Cassini">Crédito: Cassini VIMS Team, JPL, ESA and NASA</string>
+    <string name="Credit_NASA_STSI">Crédito: NASA/Space Telescope Science Institute</string>
+  
+    <string name="titulo_estructura">Estructura interna</string>
+    <string name="titulo_superficie">Superficie</string>
+    <string name="titulo_orbita_rotacion">Órbita y rotación</string>
+    <string name="titulo_observacion_estudio">Observación y estudio</string>
+    <string name="titulo_estructura_completa">Estructura</string>
+    <string name="titulo_anillos">Sistema de Anillos</string>
+    <string name="titulo_satelites_naturales">Satélites Naturales</string>
+    <string name="titulo_atmosfera">Atmósfera</string>
+    <string name="ocultar_texto">Ocultar</string>
+    
+    <string name="ordenar_distancia">Pincha en el siguiente botón para ordenar los planetas de la lista de menor a mayor distancia al Sol. Arrástralos con la parte izquierda del botón y consulta su distancia con la parte derecha.</string>
+    <string name="ordenar_tamano">Pincha en el siguiente botón para ordenar los planetas de la lista de menor a mayor tamaño. Arrástralos con la parte izquierda del botón y consulta su tamaño con la parte derecha.</string>
+
+</resources>

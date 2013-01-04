@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="boton_inicio_startColor">#577AFA</color>
+    <color name="boton_inicio_endColor">#0327AC</color>
+    <color name="boton_inicio_startColor_rojo">#AC2703</color>
+    <color name="boton_inicio_endColor_rojo">#FF3700</color>
+    <color name="boton_inicio_startColor_naranja">#E0810D</color>
+    <color name="boton_inicio_endColor_naranja">#A06620</color>
+    <color name="boton_inicio_startColor_gris">#919191</color>
+    <color name="boton_inicio_endColor_gris">#5F5F5F</color>
+    <color name="tab_texto">#202271</color>
+    <color name="texto_fotos">#FFBE39</color>
+    <color name="texto_texto_imagen">#E8D8B6</color>
+    <color name="texto_titulo">#FFBE39</color>
+    <color name="texto_titulo_2">#E8D8B6</color>
+    <color name="texto_tabla">#FFF</color>
+    <color name="texto_tabla_selecciona">#FB5E57</color>
+    <color name="texto_tabla_propiedad">#FB5E57</color>
+    <color name="texto_ejercicios">#F4AC18</color>
+    <color name="cabecera_planeta2_start">#FFBE39</color>
+    <color name="cabecera_planeta2_end">#795A19</color>
+    <color name="cabecera_planeta2_borde">#31B6E7</color>
+    <color name="cabecera_tierra_start">#31B6E7</color>
+    <color name="cabecera_tierra_end">#15236C</color>
+    <color name="cabecera_tierra_borde">#FFBE39</color>
+    <color name="celda_planeta2_start">#795A19</color>
+    <color name="celda_planeta2_end">#000</color>
+    <color name="celda_planeta2_borde">#FFBE39</color>
+    <color name="celda_propiedad_borde">#FB8A85</color>
+    <color name="celda_tierra_start">#15236C</color>
+    <color name="celda_tierra_end">#000</color>
+    <color name="celda_tierra_borde">#31B6E7</color>
+    <color name="tabla_acerca_de">#282828</color>
+
+</resources>

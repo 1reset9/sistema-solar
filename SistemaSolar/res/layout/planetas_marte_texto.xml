@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Estructura -->
+
+        <Button
+            android:id="@+id/VerMarteTextoEstructura"
+            style="@style/botonVer"
+            android:text="@string/titulo_estructura" />
+
+        <TextView
+            android:id="@+id/MarteTextoEstructura1T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_estructura1" />
+
+        <Button
+            android:id="@+id/OcultarMarteTextoEstructura"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Superficie -->
+
+        <Button
+            android:id="@+id/VerMarteTextoSuperficie"
+            style="@style/botonVer"
+            android:text="@string/titulo_superficie" />
+
+        <TextView
+            android:id="@+id/Superficie1T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_superficie1" />
+
+        <TextView
+            android:id="@+id/Superficie2T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_superficie2" />
+
+        <ImageView
+            android:id="@+id/Superficie3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_superficie_imagen0" />
+
+        <TextView
+            android:id="@+id/Superficie4C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/Superficie5T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_superficie3" />
+
+        <TextView
+            android:id="@+id/Superficie6T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_superficie4" />
+
+        <ImageView
+            android:id="@+id/Superficie7I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_superficie_imagen1" />
+
+        <TextView
+            android:id="@+id/Superficie8C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/Superficie9T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_superficie5" />
+
+        <ImageView
+            android:id="@+id/Superficie10I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_superficie_imagen2" />
+
+        <TextView
+            android:id="@+id/Superficie11C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/Superficie12T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_superficie6" />
+
+        <Button
+            android:id="@+id/OcultarMarteTextoSuperficie"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Orbita Rotacion -->
+
+        <Button
+            android:id="@+id/VerMarteTextoOrbitaRotacion"
+            style="@style/botonVer"
+            android:text="@string/titulo_orbita_rotacion" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion1T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_orbita_rotacion1" />
+
+        <ImageView
+            android:id="@+id/OrbitaRotacion2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_orbita_rotacion_imagen1" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion3T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_orbita_rotacion2" />
+
+        <Button
+            android:id="@+id/OcultarMarteTextoOrbitaRotacion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Satélites Naturales -->
+
+        <Button
+            android:id="@+id/VerMarteTextoSatelitesNaturales"
+            style="@style/botonVer"
+            android:text="@string/marte_texto_satelites_naturales_titulo" />
+
+        <TextView
+            android:id="@+id/SatelitesNaturales1T"
+            style="@style/TextoTexto"
+            android:text="@string/marte_texto_satelites_naturales1" />
+
+        <ImageView
+            android:id="@+id/SatelitesNaturales2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_satelites_imagen1" />
+
+        <TextView
+            android:id="@+id/SatelitesNaturales3C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/SatelitesNaturales4T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/marte_texto_satelites_naturales_imagen1" />
+
+        <ImageView
+            android:id="@+id/SatelitesNaturales5I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_satelites_imagen2" />
+
+        <TextView
+            android:id="@+id/SatelitesNaturales6C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL_UA" />
+
+        <TextView
+            android:id="@+id/SatelitesNaturales7T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/marte_texto_satelites_naturales_imagen2" />
+
+        <ImageView
+            android:id="@+id/SatelitesNaturales8I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marte_texto_satelites_imagen3" />
+
+        <TextView
+            android:id="@+id/SatelitesNaturales9C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL_Caltech_UA" />
+
+        <Button
+            android:id="@+id/OcultarMarteTextoSatelitesNaturales"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

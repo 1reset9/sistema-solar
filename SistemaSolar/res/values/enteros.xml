@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <integer name="boton_inicio_angle">270</integer>
+    
+    <integer name="tab_text_size">20</integer>
+    
+    <integer name="gallery_ancho">150</integer>
+    <integer name="gallery_alto">100</integer>
+    
+    <integer name="rotate1_from_degrees">90</integer>
+    <integer name="rotate1_to_degrees">0</integer>
+    <integer name="rotate2_from_degrees">90</integer>
+    <integer name="rotate2_to_degrees">360</integer>
+    <integer name="rotate1_duration">1000</integer>
+    <integer name="rotate2_duration">1400</integer>
+    <integer name="rotate3_duration">1800</integer>
+    <integer name="rotate4_duration">2200</integer> 
+    <integer name="rotate5_duration">2600</integer> 
+    <integer name="rotate6_duration">3000</integer> 
+    
+    <integer name="tabla_weight">1</integer>
+    <integer name="tabla_angle">90</integer>
+    
+</resources>

@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Definicion -->
+
+        <Button
+            android:id="@+id/VerPlanetasEnanosDefinicion"
+            style="@style/botonVer"
+            android:text="@string/titulo_planetas_enanos_definicion" />
+
+        <TextView
+            android:id="@+id/PlanetasEnanosDefinicion1T"
+            style="@style/TextoTexto"
+            android:text="@string/texto_planetas_enanos_definicion1" />
+
+        <TableLayout
+            android:id="@+id/TablaPlanetasEnanosDefinicion"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/texto_planetas_enanos_definicion21" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/texto_planetas_enanos_definicion22" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/texto_planetas_enanos_definicion23" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/texto_planetas_enanos_definicion24" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/PlanetasEnanosDefinicion3T"
+            style="@style/TextoTexto"
+            android:text="@string/texto_planetas_enanos_definicion3" />
+
+        <TextView
+            android:id="@+id/PlanetasEnanosDefinicion4T"
+            style="@style/TextoTexto"
+            android:text="@string/texto_planetas_enanos_definicion4" />
+
+        <TextView
+            android:id="@+id/PlanetasEnanosDefinicion5T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/texto_planetas_enanos_definicion_imagen1" />
+
+        <ImageView
+            android:id="@+id/PlanetasEnanosDefinicion6I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_planetas_enanos_imagen1" />
+
+        <TextView
+            android:id="@+id/PlanetasEnanosDefinicion7C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/PlanetasEnanosDefinicion8T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/texto_planetas_enanos_definicion_imagen2" />
+
+        <ImageView
+            android:id="@+id/PlanetasEnanosDefinicion9I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_planetas_enanos_imagen2" />
+
+        <TextView
+            android:id="@+id/PlanetasEnanosDefinicion10C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <Button
+            android:id="@+id/OcultarPlanetasEnanosDefinicion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Ceres -->
+
+        <Button
+            android:id="@+id/VerPlanetasEnanosCeres"
+            style="@style/botonVer"
+            android:text="@string/titulo_planetas_enanos_ceres" />
+
+        <ImageView
+            android:id="@+id/PlanetasEnanosCeresI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_planetas_enanos_ceres" />
+
+        <TextView
+            android:id="@+id/PlanetasEnanosCeresC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <TableLayout
+            android:id="@+id/TablaPlanetasEnanosCeres"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow android:id="@+id/filaCeres1" >
+
+                <TextView
+                    android:id="@+id/diametro1"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_region_cabecera" />
+
+                <TextView
+                    android:id="@+id/diametro2"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_ceres_region" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaCeres2" >
+
+                <TextView
+                    android:id="@+id/diametro3"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_diametro_cabecera" />
+
+                <TextView
+                    android:id="@+id/diametro4"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_ceres_diametro" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaCeres3" >
+
+                <TextView
+                    android:id="@+id/diametro5"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_orbita_cabecera" />
+
+                <TextView
+                    android:id="@+id/diametro8"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_ceres_orbita" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaCeres4" >
+
+                <TextView
+                    android:id="@+id/diametro6"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_satelites_cabecera" />
+
+                <TextView
+                    android:id="@+id/diametro7"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_ceres_satelites" />
+            </TableRow>
+        </TableLayout>
+
+        <Button
+            android:id="@+id/OcultarPlanetasEnanosCeres"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Pluto -->
+
+        <Button
+            android:id="@+id/VerPlanetasEnanosPluto"
+            style="@style/botonVer"
+            android:text="@string/titulo_planetas_enanos_pluto" />
+
+        <ImageView
+            android:id="@+id/PlanetasEnanosPlutoI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_planetas_enanos_pluto" />
+
+        <TextView
+            android:id="@+id/PlanetasEnanosPlutoC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Licencia_CCA3.0" />
+
+        <TableLayout
+            android:id="@+id/TablaPlanetasEnanosPluto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_region_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_pluto_region" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_diametro_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_pluto_diametro" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_orbita_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_pluto_orbita" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_satelites_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_pluto_satelites" />
+            </TableRow>
+        </TableLayout>
+
+        <Button
+            android:id="@+id/OcultarPlanetasEnanosPluto"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Eris -->
+
+        <Button
+            android:id="@+id/VerPlanetasEnanosEris"
+            style="@style/botonVer"
+            android:text="@string/titulo_planetas_enanos_eris" />
+
+        <ImageView
+            android:id="@+id/PlanetasEnanosErisI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_planetas_enanos_eris" />
+
+        <TextView
+            android:id="@+id/PlanetasEnanosErisC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Licencia_CCA3.0" />
+
+        <TableLayout
+            android:id="@+id/TablaPlanetasEnanosEris"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_region_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_eris_region" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_diametro_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_eris_diametro" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_orbita_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_eris_orbita" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_satelites_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_eris_satelites" />
+            </TableRow>
+        </TableLayout>
+
+        <Button
+            android:id="@+id/OcultarPlanetasEnanosEris"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Makemake -->
+
+        <Button
+            android:id="@+id/VerPlanetasEnanosMakemake"
+            style="@style/botonVer"
+            android:text="@string/titulo_planetas_enanos_makemake" />
+
+        <ImageView
+            android:id="@+id/PlanetasEnanosMakemakeI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_planetas_enanos_makemake" />
+
+        <TextView
+            android:id="@+id/PlanetasEnanosMakemakeC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <TableLayout
+            android:id="@+id/TablaPlanetasEnanosMakemake"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_region_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_makemake_region" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_diametro_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_makemake_diametro" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_orbita_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_makemake_orbita" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_satelites_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_makemake_satelites" />
+            </TableRow>
+        </TableLayout>
+
+        <Button
+            android:id="@+id/OcultarPlanetasEnanosMakemake"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Haumea -->
+
+        <Button
+            android:id="@+id/VerPlanetasEnanosHaumea"
+            style="@style/botonVer"
+            android:text="@string/titulo_planetas_enanos_haumea" />
+
+        <ImageView
+            android:id="@+id/PlanetasEnanosHaumeaI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_planetas_enanos_haumea" />
+
+        <TextView
+            android:id="@+id/PlanetasEnanosHaumeaC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <TableLayout
+            android:id="@+id/TablaPlanetasEnanosHaumea"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_region_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_haumea_region" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_diametro_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_haumea_diametro" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_orbita_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_haumea_orbita" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="@string/tabla_planetas_enanos_satelites_cabecera" />
+
+                <TextView
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="@string/tabla_planetas_enanos_haumea_satelites" />
+            </TableRow>
+        </TableLayout>
+
+        <Button
+            android:id="@+id/OcultarPlanetasEnanosHaumea"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

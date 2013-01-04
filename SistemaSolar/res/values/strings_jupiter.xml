@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      
+    <string name="jupiter_texto_estructura1">Júpiter tiene la atmósfera planetaria más grande del Sistema Solar, está siempre cubierta de nubes y no tiene un límite inferior bien definido, sino que se va transformando gradualmente en el interior líquido del planeta.</string>
+	<string name="jupiter_texto_estructura2">El hidrógeno, el helio y el argón se van comprimiendo progresivamente y al comprimirse el hidrógeno se transforma en un líquido de carácter metálico.</string>
+	<string name="jupiter_texto_estructura3">Debajo se cree que hay una núcleo rocoso formado por materiales más densos y helados. Al ser tan masivo todavía no se ha liberado el calor que acumuló en su formación.</string>
+    
+    <string name="jupiter_texto_orbita_rotacion1">Júpiter es el quinto planeta desde el Sol, su órbita está a unos 750 millones de kilómetros del Sol y tarda en recorrerla 11,86 años terrestres.</string>
+    <string name="jupiter_texto_orbita_rotacion2">Júpiter tiene la velocidad de rotación más alta del Sistema Solar, gira sobre su eje en poco menos de 10 horas, siendo esa la duración de un día en Júpiter.</string>
+    
+    <string name="jupiter_texto_anillos1">Júpiter tiene un leve sistema de anillos descubierto por la sonda Voyager en 1979 compuesto por tres partes:</string>
+    <string name="jupiter_texto_anillos2">La zona más interna, que se denomina halo.</string>
+    <string name="jupiter_texto_anillos3">La zona intermedia, que se considera la principal al ser la más brillante.</string>
+    <string name="jupiter_texto_anillos4">La zona exterior, que es más tenue pero de mayor tamaño.</string>
+    <string name="jupiter_texto_anillos5">El anillo principal parece estar compuesto por material de dos satélites que se encuentran en la misma órbita que el anillo.</string>
+    
+    <string name="jupiter_texto_observacion_estudio_titulo1">Observación antes del telescopio</string>
+    <string name="jupiter_texto_observacion_estudio_titulo2">Observación con telescopio</string>
+    <string name="jupiter_texto_observacion_estudio_titulo3">Observación con radiotelescopio</string>
+    <string name="jupiter_texto_observacion_estudio_titulo4">Exploración con sondas espaciales</string>
+    <string name="jupiter_texto_observacion_estudio1">La observación de Júpiter se remonta a los astrónomos babilonios del siglo VI ó VII antes de Cristo. Según un historiador chino hubo un astrónomo chino que vio a simple vista una de las lunas de Júpiter en el año 362 antes de Cristo, dos milenios antes de que lo hiciera Galileo.</string>
+    <string name="jupiter_texto_observacion_estudio2">En 1610 Galileo descubrió las cuatro grandes lunas de Júpiter utilizando un telescopio. El movimiento de estas lunas aparentemente no se centraba en la Tierra y fue un punto importante para su apoyo a la teoría heliocéntrica de Copérnico. En 1660 Cassini descubrió bandas y manchas de colores en Júpiter. El mismo Cassini pudo observar ya la Gran mancha roja. </string>
+    <string name="jupiter_texto_observacion_imagen0">En la siguiente imagen podemos ver los apuntes de Galileo hechos después del descubrimiento de los cuatro satélites de Júpiter en 1610. Este descubrimiento ayudó a entender y demostrar que los planetas giran alrededor del Sol.</string>
+    <string name="jupiter_texto_observacion_estudio3">En 1955 se detectaron señales de radio procedentes de Júpiter coincidiendo con la rotación del planeta. Se descubrió que llegaban tres tipos de radiaciones: las causadas por la rotación del planeta, las causadas por el cinturón de la zona interna y las causadas por el calor de su atmósfera.</string>
+    <string name="jupiter_texto_observacion_estudio4">Ha habido varias misiones espaciales de la NASA desde 1973. La sondas Pioneer 10 y Pioneer 11 sobrevolaron Júpiter por primera vez. Se sacaron las primeras fotos cercanas del planeta así como de los cuatro satélites más grandes. Se estudió su atmósfera y su campo magnético.</string>
+    <string name="jupiter_texto_observacion_estudio5">Las misiones Voyager 1 y Voyager 2 llegaron a Júpiter en 1979 aportando mucho más conocimiento sobre el planeta y sus satélites, y descubriendo su sistema de anillos. </string>
+    <string name="jupiter_texto_observacion_estudio6">En 1995 se inició la misión Galileo para explorar el planeta durante siete años. Se descubrieron océanos bajo la superficie en el satélite Europa y volcanes activos en el satélite Ío.</string>
+    <string name="jupiter_texto_observacion_estudio7">En 2007 la sonda espacial New Horizons en su camino a Plutón mostró nuevas imágenes de Júpiter sobre las tormentas atmosféricas, los anillos o los satélites.</string>
+    <string name="jupiter_texto_observacion_estudio8">En 2011 se inició la misión llamada Juno para realizar un estudio más profundo desde una órbita polar. Estudiará la composición química del planeta, la atmósfera, la estructura interior y la magnetosfera.</string>
+    <string name="jupiter_texto_observacion_imagen1">En la siguiente imagen podemos ver una concepción artística de la nave Juno:</string>
+   
+    <string name="jupiter_video_texto1">Júpiter es el mayor planeta del Sistema Solar, se parece a una estrella en su composición. Si su masa hubiera sido 80 veces mayor se hubiera transformado en una estrella en vez de un planeta.</string>
+    <string name="jupiter_video_texto2">Su campo magnético es unas 20.000 veces más potente que el de la Tierra.</string>
+    <string name="jupiter_video_texto3">En su atmósfera destaca lo que se ha denominado la gran mancha roja, que es un enorme anticiclón situado en el hemisferio sur. Su tamaño es mayor que el de la Tierra y es fácilmente observable con un telescopio.</string>
+    <string name="jupiter_video_texto4">Su nombre viene del dios romano Júpiter, que en la mitología griega era Zeus. En ambas civilizaciones era el dios más importante.</string> 
+ 
+    <string name="jupiter_texto_extra_satelites_titulo">Satélites de Júpiter</string>
+    <string name="jupiter_texto_extra_satelites1">Se han descubierto 63 satélites en Júpiter, entre los cuales destacan cuatro grandes que se denominan satélites galileanos: Ío, Europa, Ganímedes y Calisto, que pueden observarse con instrumentos ópticos modestos. Todos excepto Europa son mayores que nuestra Luna, si estuvieran girando alrededor del Sol se les consideraría planetas enanos.</string>
+    <string name="jupiter_texto_extra_satelites2">Los demás satélites son de un tamaño muy pequeño y deformes, que van desde los 2 km de radio hasta los 135 km.</string>
+    
+    <string name="jupiter_texto_extra_io_titulo">Ío</string>
+    <string name="jupiter_texto_extra_io1">Es el satélite más cercano a Júpiter. Tiene más de 400 volcanes activos, lo que le convierte en el objeto más activo geológicamente hablando. Esta actividad se debe al calentamiento por marea provocado por la fuerte atracción gravitatoria de Júpiter.</string>
+    <string name="jupiter_texto_extra_io2">No tiene cráteres de impacto y su superficie está cubierta de azufre. Se cree que debe tener un núcleo de un material pesado como el hierro y en su interior material rocoso y azufre.</string>
+    
+    <string name="jupiter_texto_extra_europa_titulo">Europa</string>
+    <string name="jupiter_texto_extra_europa1">Es el segundo de los satélites galileanos y el más pequeño de los cuatro. Europa crea un campo magnético gracias a la interacción con el campo magnético de Júpiter. La superficie es muy lisa con pocos accidentes geográficos y pocos cráteres. Las marcas entrecruzadas de la superficie pueden estar causadas por las diferencias de albedo, es decir, zonas de la superficie que reflejan menos luz de la que incide. La temperatura en la superficie es de -160 grados centígrados y en los polos de -210.</string>
+    <string name="jupiter_texto_extra_europa2">En su composición se parece a los planetas interiores, siendo su composición principal las rocas de sílice. Tiene una capa externa de agua de unos 100 km de los cuales los 10 ó 30 últimos están en forma de hielo cubriendo la superficie. Se cree que también puede tener un núcleo de hierro.</string>
+    
+    <string name="jupiter_texto_extra_ganimedes_titulo">Ganímedes</string>
+    <string name="jupiter_texto_extra_ganimedes1">Es el tercero de los satélites de Júpiter y el más grande de todo el Sistema Solar.</string>
+    <string name="jupiter_texto_extra_ganimedes2">Se cree que tiene tres capas: un núcleo de hierro fundido y azufre, una manto de sílice rocoso y una corteza helada en el exterior. La corteza parece estar dividida en placas tectónicas como en la Tierra.</string>
+    
+    <string name="jupiter_texto_extra_calisto_titulo">Calisto</string>
+    <string name="jupiter_texto_extra_calisto1">Es el cuarto de los satélites de Júpiter. No sufre un calentamiento apreciable por fuerzas de marea. En un estudio de la NASA se propuso que podría construirse una base en su superficie para la exploración del Sistema Solar al ser un satélite que recibe poca radiación y tiene estabilidad geológica. Podría haber una misión tripulada en la década de 2040.</string>
+    <string name="jupiter_texto_extra_calisto2">Está compuesto a partes iguales por roca y por hielo teniendo en su superficie un gran número de cráteres de impacto. Tiene una atmósfera extremadamente fina y se cree que puede haber un océano líquido bajo su superficie.</string>
+ 
+</resources>

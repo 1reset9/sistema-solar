@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      
+    <string name="titulo_estructura_sol">Estructura</string>
+    <string name="sol_texto_estructura">El modelo de estructura que actualmente explica mejor los fenómenos observados es una estructura con las siguientes capas esféricas:</string>
+ 
+    <string name="sol_texto_estructura1">1 Núcleo: ocupa la quinta parte del radio y es donde se generan las reacciones termonucleares que producen la energía solar.</string>
+    <string name="sol_texto_estructura2">2 Zona radiante.</string>
+    <string name="sol_texto_estructura3">3 Zona convectiva.</string>
+    <string name="sol_texto_estructura4">4 Fotosfera: Es la superficie del Sol, la zona donde se emite la luz visible. Tiene entre 100 y 200 km de profundidad.</string>
+    <string name="sol_texto_estructura5">5 Cromosfera: Capa exterior muy transparente de unos 10.000 km de tamaño y que sólo puede verse con filtros especiales debido al brillo de la Fotosfera.</string>
+    <string name="sol_texto_estructura6">6 Corona: Es la capa más extensa del Sol. Está compuesta de plasma y se extiende más de un millón de kilómetros desde su origen. Su estructura está determinada por el campo magnético del Sol.</string>
+    <string name="sol_texto_estructura7">7 Manchas solares.</string>
+    <string name="sol_texto_estructura8">8 Granulación.</string>
+    <string name="sol_texto_estructura9">9 Viento solar.</string>
+    
+    <string name="sol_video_texto1">El Sol es la estrella que se encuentra en el centro el Sistema Solar. A su alrededor gira la Tierra, así como los demás planetas y otra gran cantidad de cuerpos como asteroides y cometas. Representa el 98,6 por ciento de la masa del Sistema Solar y su diámetro es más de 100 veces el de la Tierra.</string>
+    <string name="sol_video_texto2">Se formó hace unos 4.500 millones de años y permanecerá de esta forma otros 5.000 millones de años más. Después se convertirá en una gigante roja y finalmente en una enana blanca.</string>
+    <string name="sol_video_texto3">Es la principal fuente de energía de la vida que se desarrolla en la Tierra y determina el clima y la meteorología.</string>
+    
+    <string name="titulo_heliosfera">Heliosfera</string>
+    <string name="sol_texto_heliosfera">Es la región que va desde el Sol hasta más allá de Plutón. Toda esta región está bajo la influencia del viento solar y de las tormentas geomagnéticas.</string>
+    <string name="sol_texto_heliosfera_imagen">En la siguiente imagen se puede ver la heliosfera protegiendo al Sistema Solar de las radiaciones que proceden del centro de la galaxia:</string>
+    
+    <string name="titulo_sol_observacion_exploracion">Observación</string>
+    <string name="sol_texto_observacion_exploracion1">Galileo Galilei realizó algunas de las primeras observaciones de la actividad solar detectando las manchas rojas y midiendo la rotación. Actualmente la actividad solar está monitorizada para predecir posibles emisiones potencialmente peligrosas para las actividades espaciales y las telecomunicaciones.</string>
+    <string name="sol_texto_observacion_exploracion2">La Agencia Espacial Europea y la NASA lanzaron la sonda espacial SOHO para su estudio. También se llevaron a cabo misiones con otras sondas como la sonda europea  Ulysses y la americana Génesis.</string>
+    <string name="sol_texto_observacion_exploracion_imagen">En la siguiente imagen podemos ver la sonda SOHO preparada para montarse en el cohete:</string>
+    
+</resources>

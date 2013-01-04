@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Estructura -->
+
+        <Button
+            android:id="@+id/VerJupiterTextoEstructura"
+            style="@style/botonVer"
+            android:text="@string/titulo_estructura_completa" />
+
+        <TextView
+            android:id="@+id/JupiterTextoEstructura1T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_estructura1" />
+
+        <TextView
+            android:id="@+id/JupiterTextoEstructura2T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_estructura2" />
+
+        <TextView
+            android:id="@+id/JupiterTextoEstructura3T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_estructura3" />
+
+        <ImageView
+            android:id="@+id/JupiterTextoEstructura4I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_estructura_imagen1" />
+
+        <TextView
+            android:id="@+id/JupiterTextoEstructura5C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <Button
+            android:id="@+id/OcultarJupiterTextoEstructura"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Orbita Rotacion -->
+
+        <Button
+            android:id="@+id/VerJupiterTextoOrbitaRotacion"
+            style="@style/botonVer"
+            android:text="@string/titulo_orbita_rotacion" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion1T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_orbita_rotacion1" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion2T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_orbita_rotacion2" />
+
+        <Button
+            android:id="@+id/OcultarJupiterTextoOrbitaRotacion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Sistema de Anillos -->
+
+        <Button
+            android:id="@+id/VerJupiterTextoAnillos"
+            style="@style/botonVer"
+            android:text="@string/titulo_anillos" />
+
+        <TextView
+            android:id="@+id/Anillos1T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_anillos1" />
+
+        <TableLayout
+            android:id="@+id/Anillos2Tabla"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/jupiter_texto_anillos2" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/jupiter_texto_anillos3" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/jupiter_texto_anillos4" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/Anillos3T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_anillos5" />
+
+        <ImageView
+            android:id="@+id/Anillos4I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_anillos_imagen1" />
+
+        <TextView
+            android:id="@+id/Anillos5C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <Button
+            android:id="@+id/OcultarJupiterTextoAnillos"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Observación y Estudio -->
+
+        <Button
+            android:id="@+id/VerJupiterTextoObservacionEstudio"
+            style="@style/botonVer"
+            android:text="@string/titulo_observacion_estudio" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio1T"
+            style="@style/TextoTitulo.2"
+            android:text="@string/jupiter_texto_observacion_estudio_titulo1" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio2T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_observacion_estudio1" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio3T"
+            style="@style/TextoTitulo.2"
+            android:text="@string/jupiter_texto_observacion_estudio_titulo2" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio4T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_observacion_estudio2" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio44T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/jupiter_texto_observacion_imagen0" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio5I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_observacion_estudio_imagen1" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio6C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_Galileo" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio7T"
+            style="@style/TextoTitulo.2"
+            android:text="@string/jupiter_texto_observacion_estudio_titulo3" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio8T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_observacion_estudio3" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio9T"
+            style="@style/TextoTitulo.2"
+            android:text="@string/jupiter_texto_observacion_estudio_titulo4" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio10T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_observacion_estudio4" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio11T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_observacion_estudio5" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio12I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_observacion_estudio_imagen2" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio13C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio14T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_observacion_estudio6" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio15I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_observacion_estudio_imagen3" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio16C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio17T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_observacion_estudio7" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio18T"
+            style="@style/TextoTexto"
+            android:text="@string/jupiter_texto_observacion_estudio8" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio19T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/jupiter_texto_observacion_imagen1" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio20I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jupiter_texto_observacion_estudio_imagen4" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio21C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL_Caltech_Eyes" />
+
+        <Button
+            android:id="@+id/OcultarJupiterTextoObservacionEstudio"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <stroke
+        android:width="@dimen/table_borde"
+        android:color="@color/cabecera_tierra_borde" />
+
+    <gradient
+        android:angle="@integer/tabla_angle"
+        android:endColor="@color/cabecera_tierra_end"
+        android:startColor="@color/cabecera_tierra_start"
+        android:type="linear" />
+
+    <corners android:radius="@dimen/table_corner_4" />
+
+</shape>

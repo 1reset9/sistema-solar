@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      
+    <string name="saturno_texto_estructura1">Igual que Júpiter tiene un núcleo sólido en el interior, un pequeño núcleo de roca parecido al de la Tierra pero más denso. Sobre él hay una capa de hidrógeno que está líquido por las elevadas presiones y temperaturas.</string>
+	<string name="saturno_texto_estructura2">Los 30.000 km exteriores están formados por una extensa atmósfera de hidrógeno y helio. Es el planeta con menor densidad del Sistema Solar. Esto hace que aunque su volumen sea suficiente como para contener 740 veces a la Tierra su masa es tan sólo 95 veces la terrestre.</string>
+	<string name="saturno_texto_estructura3">Se cree que irradia más calor del que recibe del Sol, parte de ese calor lo libera como energía potencial gravitatoria producida por la lenta contracción del planeta.</string>
+    
+	<string name="saturno_texto_atmosfera1">La atmósfera tiene fuertes vientos dominados por una intensa corriente ecuatorial al nivel de la altura de las nubes que llegó a alcanzar velocidades de 450 m/s cuando la exploración de los Voyager.</string>
+	<string name="saturno_texto_atmosfera2">Se cree que las nubes superiores están formadas por cristales de amoníaco, sobre ellas hay una niebla uniforme que se extiende por todo el planeta y a niveles más profundos el agua de la atmósfera podría condensarse en una capa de nubes de agua. Ocasionalmente se forman tormentas que han podido observarse desde la Tierra. Una de la tormentas más grandes que se han visto se formó en 2007 con rayos 10.000 veces más potentes que los de cualquier tormenta en la Tierra, y duró más de 7 meses. Otra de las mayores se formó en 2010, tan grande que rodeó todo el planeta, con un vórtice central de 5.000 km de ancho, durando más de 6 meses.</string>
+	<string name="saturno_texto_atmosfera3">En el polo norte existe una nube con patrón hexagonal alrededor de un vórtice polar. Los lados del hexágono son mayores que el diámetro de la Tierra.</string>
+
+    <string name="saturno_texto_orbita_rotacion1">La distancia media entre Saturno y el Sol es de 1.418 millones de kilómetros. Tarda en dar una vuelta alrededor del Sol 29 años y 167 días con una velocidad media de 9,69 km/s.</string>
+    <string name="saturno_texto_orbita_rotacion2">El periodo de rotación del planeta sólo se puede conocer de forma aproximada debido a que no posee superficie y su atmósfera gira con un periodo distinto en cada latitud, pero es un periodo corto, de unas 10 horas y 30 minutos.</string>
+    
+    <string name="saturno_texto_satelites1">Saturno tiene unos 200 satélites. El mayor de ellos es Titán, con un tamaño mayor que Mercurio, es el único satélite con una atmósfera densa, una atmósfera similar a la de la Tierra primitiva.</string>
+    <string name="saturno_texto_satelites2">Otro satélite que le interesa mucho a los científicos es Encélado ya que se piensa que puede tener agua líquida a poca profundidad.</string>
+    <string name="saturno_texto_satelites3">Entre los distintos grupos de satélites destacan las siguientes categorías:</string>
+    <string name="saturno_texto_satelites4">Satélites medianos helados: son de tamaño mediano, se pueden ver con telescopio, y sus superficies están cubiertas de hielo y tienen muchos cráteres.</string>
+    <string name="saturno_texto_satelites5">Satélites de anillo: pequeños satélites que orbitan dentro de los anillos.</string>
+    <string name="saturno_texto_satelites6">Satélites pastores: orbitan cerca del sistema de anillos y contribuyen a formar su estructura.</string>
+    <string name="saturno_texto_satelites7">Satélites irregulares: es el grupo más numeroso, el más grande es Febe, los demás tienen sólo unos pocos kilómetros de diámetro y sus órbitas están a gran distancia de Saturno.</string>
+    
+    <string name="saturno_texto_observacion_estudio_titulo1">Observación antes del telescopio</string>
+    <string name="saturno_texto_observacion_estudio_titulo2">Observación con telescopio</string>
+    <string name="saturno_texto_observacion_estudio_titulo3">Exploración con sondas espaciales</string>
+    <string name="saturno_texto_observacion_estudio1">Es uno de los objetos más brillantes del cielo, visto desde la Tierra tiene un tono amarillento y con un telescopio se pueden ver los anillos A y B, mientras que los D y E sólo se ven en condiciones atmosféricas óptimas.</string>
+    <string name="saturno_texto_observacion_estudio2">Es conocido desde tiempos prehistóricos y al ser el último de los planetas que se conocían tuvo mucha importancia en la mitología. Astrónomos babilonios observaron y registraron sus movimientos.</string>
+    <string name="saturno_texto_observacion_estudio_imagen1">En la siguiente imagen podemos ver un fragmento de un libro con observaciones de Saturno del astrónomo del siglo XIII Bonatti:</string>
+    <string name="saturno_texto_observacion_estudio3">Galileo fue el primero en ver los anillos de Saturno, aunque en un principio pensó que se trataba de satélites a ambos lados del planeta. Huygens con un telescopio mayor descubrió Titán y la auténtica apariencia de los anillos. A lo largo de los años se fueron descubriendo varios satélites más.</string>
+    <string name="saturno_texto_observacion_estudio4">El conocimiento del sistema de Saturno se incrementó enormemente con el envío por parte de la NASA de las sondas Pioneer 11, Voyager 1 y Voyager 2, que sobrevolaron el planeta en 1979, 1980 y 1981. Estas naves analizaron el espectro electromagnético, el campo magnético y las partículas de polvo interplanetario.</string>
+    <string name="saturno_texto_observacion_estudio_imagen2">En la siguiente imagen retocada podemos ver la sonda Pioneer 11:</string>
+    <string name="saturno_texto_observacion_estudio5">En 1997 se envió la nave Cassini que incluía la sonda Huygens para explorar Titán en colaboración con la Agencia Espacial Europea, obteniendo las primeras fotos del planeta en 2002. En 2004 la nave entró en la órbita de Saturno mientras que un año después la sonda Hygens atravesó la atmósfera de Titán y alcanzó la superficie.</string>
+    
+    <string name="saturno_video_texto1">Saturno es el sexto planeta desde el Sol y el segundo más grande después de Júpiter. Es el único que tiene un sistema de anillos visible desde nuestro planeta.</string>
+    <string name="saturno_video_texto2">Los anillos son una agrupación de millones de partículas compuestas principalmente por hielo con tamaño muy variable y que giran a una velocidad de 48.000 km/h, unas 15 veces más rápido que una bala.</string>
+    <string name="saturno_video_texto3">Está visiblemente achatado por los polos debido a su rápida rotación, su composición y su baja fuerza de gravedad.</string> 
+    <string name="saturno_video_texto4">Recibe el nombre de un dios romano identificado con el dios griego Cronos.</string>
+
+    <string name="saturno_texto_extra_anillos_titulo">Anillos de Saturno</string>
+    <string name="saturno_texto_extra_distribucion_titulo">Distribución</string>
+    <string name="saturno_texto_extra_composicion_titulo">Composición</string>
+    <string name="saturno_texto_extra_formacion_titulo">Formación</string>
+    
+    <string name="saturno_texto_extra_anillos1">Los anillos se extienden en el plano del ecuador desde los 6.630 km hasta los 120.700 km, y su composición principal es agua helada. El tamaño varía desde partículas microscópicas hasta rocas con varios metros de tamaño. Son bastante más antiguos de lo que se pensó en un principio. Tienen una dinámica orbital muy compleja y al estar bajo la influencia gravitatoria de Saturno no pueden evolucionar hacia la formación de un cuerpo mayor.</string>
+    <string name="saturno_texto_extra_anillos2">Se ha descubierto que hay una atmósfera alrededor del sistema de anillos, compuesta de oxígeno molecular, muy parecida a las de las lunas de Júpiter Europa y Ganímedes.</string>
+    <string name="saturno_texto_extra_anillos3">Están distribuidos en zonas de mayor y menor densidad de material existiendo unas divisiones bien definidas entre una región y otra. Los anillos principales son los llamados A y B. En la región interior del anillo B se distingue otro más débil con gran extensión, el C y otro más fino, el D. En el exterior del anillo A se encuentran los anillos F y E.</string>
+    <string name="saturno_texto_extra_anillos4">En 2009 el telescopio espacial Spitzer descubrió un nuevo y enorme anillo alrededor de Saturno, mucho más grande que los que le rodean. Se encuentra tan disperso que resulta casi invisible. Comienza a unos 6 millones de km de distancia del planeta y alcanza los 13 millones de diámetro. Uno de los satélites más lejanos de Saturno: Febe, orbita dentro de este anillo y probablemente sea la fuente de su composición.</string>
+    <string name="saturno_texto_extra_anillos5">Considerando la capacidad de los distintos anillos para reflejar o absorber distintas longitudes de onda de la luz deducimos que los anillos A, B y C están compuestos fundamentalmente por hielo con algunas partículas de polvo o de óxido de hierro. De la exploración con ondas de radar y teniendo en cuenta la longitud de dichas ondas se dedujo que la mayoría de las partículas de los anillos A y B son de un tamaño del orden de centímetros. Gracias a la difusión de la luz o de alguna otra radiación electromagnética por las partículas de un anillo se puede deducir el tamaño de las partículas más abundantes.</string>
+    <string name="saturno_texto_extra_anillos_imagen1">En la siguiente imagen podemos ver una concepción artística de las partículas que componen los anillos:</string>
+    <string name="saturno_texto_extra_anillos6">Hay dos teorías principales sobre la formación de los anillos interiores. Una de ellas, expuesta en el siglo XIX, sostiene que los anillos fueron originariamente un satélite del planeta, cuya órbita decayó hasta que se acercó lo suficiente como para que las fuerzas de marea lo desintegraran. Una variación de esta teoría es que dicho satélite se desintegró por la colisión de un gran cometa o asteroide. La segunda teoría es que son parte del material de la nebulosa que formó Saturno.</string> 
+ 
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Anillos -->
+
+        <Button
+            android:id="@+id/VerSaturnoExtraTextoAnillos"
+            style="@style/botonVer"
+            android:text="@string/saturno_texto_extra_anillos_titulo" />
+
+        <TextView
+            android:id="@+id/SaturnoExtraTextoAnillos1T"
+            style="@style/TextoTexto"
+            android:text="@string/saturno_texto_extra_anillos1" />
+
+        <TextView
+            android:id="@+id/SaturnoExtraTextoAnillos2T"
+            style="@style/TextoTexto"
+            android:text="@string/saturno_texto_extra_anillos2" />
+
+        <ImageView
+            android:id="@+id/SaturnoExtraTextoAnillos3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/saturno_texto_extra_anillos_imagen1" />
+
+        <TextView
+            android:id="@+id/SaturnoExtraTextoAnillos4C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL_SSI" />
+
+        <Button
+            android:id="@+id/OcultarSaturnoExtraTextoAnillos"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Distribución -->
+
+        <Button
+            android:id="@+id/VerSaturnoExtraTextoDistribucion"
+            style="@style/botonVer"
+            android:text="@string/saturno_texto_extra_distribucion_titulo" />
+
+        <TextView
+            android:id="@+id/SaturnoExtraTextoDistribucion1T"
+            style="@style/TextoTexto"
+            android:text="@string/saturno_texto_extra_anillos3" />
+
+        <ImageView
+            android:id="@+id/SaturnoExtraTextoDistribucion2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/saturno_texto_extra_anillos_imagen2" />
+
+        <TextView
+            android:id="@+id/SaturnoExtraTextoDistribucion3C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL_SSI" />
+
+        <TextView
+            android:id="@+id/SaturnoExtraTextoDistribucion4T"
+            style="@style/TextoTexto"
+            android:text="@string/saturno_texto_extra_anillos4" />
+
+        <ImageView
+            android:id="@+id/SaturnoExtraTextoDistribucion5I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/saturno_texto_extra_anillos_imagen3" />
+
+        <TextView
+            android:id="@+id/SaturnoExtraTextoDistribucion6C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL_Caltech" />
+
+        <Button
+            android:id="@+id/OcultarSaturnoExtraTextoDistribucion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Composición -->
+
+        <Button
+            android:id="@+id/VerSaturnoExtraTextoComposicion"
+            style="@style/botonVer"
+            android:text="@string/saturno_texto_extra_composicion_titulo" />
+
+        <TextView
+            android:id="@+id/SaturnoExtraTextoComposicion1T"
+            style="@style/TextoTexto"
+            android:text="@string/saturno_texto_extra_anillos5" />
+
+        <TextView
+            android:id="@+id/SaturnoExtraTextoComposicion2T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/saturno_texto_extra_anillos_imagen1" />
+
+        <ImageView
+            android:id="@+id/SaturnoExtraTextoComposicion3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/saturno_texto_extra_anillos_imagen4" />
+
+        <TextView
+            android:id="@+id/SaturnoExtraTextoComposicion4C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <Button
+            android:id="@+id/OcultarSaturnoExtraTextoComposicion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Formación -->
+
+        <Button
+            android:id="@+id/VerSaturnoExtraTextoFormacion"
+            style="@style/botonVer"
+            android:text="@string/saturno_texto_extra_formacion_titulo" />
+
+        <TextView
+            android:id="@+id/SaturnoExtraTextoFormacion1T"
+            style="@style/TextoTexto"
+            android:text="@string/saturno_texto_extra_anillos6" />
+
+        <Button
+            android:id="@+id/OcultarSaturnoExtraTextoFormacion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

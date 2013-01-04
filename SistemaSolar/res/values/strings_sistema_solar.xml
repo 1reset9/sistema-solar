@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Introduccion -->  
+    <string name="titulo_introduccion_sistema_solar">El Sistema Solar</string>
+    <string name="introduccion_sistema_solar">El Sistema Solar es un sistema planetario formado por el Sol, ocho planetas que orbitan a su alrededor, sus lunas y otros objetos. Todos estos objetos rigen sus movimientos por los efectos de la gravedad. Es el sistema donde se encuentra la Tierra. La inmensa mayoría de la masa del Sistema Solar está en el Sol, con aproximadamente el 99,85 por ciento.</string>
+    <string name="titulo_introduccion_ubicacion">Ubicación</string>
+    <string name="introduccion_ubicacion">Se encuentra en la Nube Interestelar Local que se localiza en la Burbuja Local en el Brazo de Orión de la galaxia Vía Láctea, a unos 28 mil años luz del centro.</string>
+    <string name="titulo_introduccion_planetas_interiores">Planetas interiores</string>
+    <string name="introduccion_planetas_interiores">Los cuatro planetas interiores son conocidos como planetas terrestres: Mercurio, Venus, Tierra y Marte, están formados fundamentalmente por roca y metal. </string>
+    <string name="titulo_introduccion_planetas_exteriores">Planetas exteriores</string>
+    <string name="introduccion_planetas_exteriores">Los cuatro planetas exteriores son conocidos como gigantes gaseosos: Júpiter y Saturno, formados principalmente por hidrógeno y helio, Urano y Neptuno, compuestos principalmente por agua congelada, amoníaco y metano.</string>
+    <string name="titulo_introduccion_otros_cuerpos">Otros cuerpos</string>
+    <string name="introduccion_otros_cuerpos1">Otros objetos que también forman parte del Sistema Solar son:</string>    
+    <string name="introduccion_otros_cuerpos2">El Cinturón de Asteroides, se encuentra entre Marte y Júpiter y también está formado por roca y metal.</string>    
+    <string name="introduccion_otros_cuerpos3">Cometas, Centauros y Pólvo Cósmico, que viajan libremente entre las distintas regiones.</string>    
+    <string name="introduccion_otros_cuerpos4">Plutoides, objetos situados más allá de Neptuno, con el Cinturón de Kuiper y el Disco disperso. En esta zona hay cuatro planetas enanos entre los que se encuentra Plutón. Estos objetos están formados principalmente por agua, amoníaco y metano.</string>    
+    <string name="introduccion_otros_cuerpos5">La Nube de Oort, es una nube esférica de cometas y asteroides que no ha sido observada directamente, es hipotética. Es el límite del Sistema Solar y su borde está a un año luz del Sol.</string>    
+    
+    <!-- Formacion --> 
+    <string name="titulo_formacion_sistema_solar">Sistema Solar</string>
+    <string name="formacion_sistema_solar">El Sistema Solar se formó hace 4.600 millones de años por el colapso gravitatorio de una enorme nube molecular. Esta nube inicial pudo tener varios años luz de diámetro y estaría formada por hidrógeno, helio y pequeñas cantidades de elementos más pesados. La mayor parte de la masa se acumuló en el centro y al girar se calentó cada vez más formando una protoestrella. Los planetas se fueron formando por acumulación gravitacional de polvo y gas, habiéndose formado cientos de protoplanetas en el Sistema Solar temprano que se fueron fusionando o destruyendo hasta formar los cuerpos que conocemos hoy.</string>
+    <string name="titulo_formacion_planetas_rocosos">Planetas rocosos</string>
+    <string name="formacion_planetas_rocosos">Los metales y silicatos sólo podían existir en la zona interior cálida cercana al Sol debido a sus altos puntos de ebullición, en esta zona se formaron los planetas rocosos. Al haber pocos elementos metálicos estos planetas no podían ser muy grandes.</string>
+    <string name="titulo_formacion_planetas_gaseosos">Planetas gaseosos</string>
+    <string name="formacion_planetas_gaseosos">Los gigantes gaseosos se formaron más allá de la línea de congelación donde hace suficiente frío como para que los compuestos de hielo puedan permanecer sólidos. Este material helado era mucho más abundante y permitió capturar grandes atmósferas de hidrógeno y helio.</string>
+    
+    <!-- Asteroides --> 
+    <string name="titulo_asteroides_cinturon_asteroides">Cinturón de asteroides</string>
+    <string name="asteroides_cinturon_asteroides">El Cinturón de Asteroides se encuentra entre las órbitas de los planetas Marte y Júpiter, en él se encuentran la mayoría de los asteroides y cometas conocidos, girando alrededor del Sol con periodos orbitales que duran desde tres hasta seis años terrestres. Más de la mitad de la masa total se encuentra en sus objetos de mayor tamaño: Ceres (considerado planeta enano, con 950 km de diámetro), Palas, Vesta, Higia y Juno. La mayoría de los cuerpos del cinturón son mucho más pequeños que estos objetos, en total tienen una masa del cuatro por ciento de la Luna, y están dispersos por todo el volumen del cinturón, por lo que se puede atravesar fácilmente sin chocar con ningún objeto.</string>
+    <string name="texto_asteroides_cinturon_asteroides_imagen">En esta imagen podemos ver los tamaños de los primeros asteroides en ser descubiertos comparados con el tamaño de la Luna. Los cuerpos representados son: 1 Ceres, 2 Pallas, 3 Juno, 4 Vesta, 5 Astraea, 6 Hebe, 7 Iris, 8 Flora, 9 Metis, 10 Hygiea.</string>
+    <string name="titulo_asteroides_cercanos_tierra">Cercanos a la Tierra</string>
+    <string name="texto_asteroides_cercanos_tierra">Son asteroides cuyas órbitas se encuentran cercanas a la de la Tierra. Se conocen aproximadamente unos 1.000 asteroides de estas características alcanzando un tamaño de aproximadamente 32 km de diámetro, teniendo la mayoría entre 1 y 2 km. Suelen durar en su órbita entre 10 y 100 millones de años siendo estas algunas de las principales causas de su destrucción: decaimiento y crecimiento de su órbita, colisiones con planetas, perturbaciones gravitacionales con otros cuerpos.</string>
+    <string name="texto_asteroides_cercanos_tierra_imagen">En la siguiente imagen podemos ver las tres familias de estos asteroides según su órbita: Asteroides Amor, Asteroides Apolo, Asteroides Atón.</string>
+    <string name="titulo_texto_asteroides_troyanos">Troyanos</string>
+    <string name="texto_asteroides_troyanos">Son asteroides que comparten órbita con un planeta. Los asteroides troyanos de Júpiter son la mayoría de este tipo de asteroides. Se cree que el número de asteroides troyanos de Júpiter mayores de 1 km supera el millón. También se han encontrado asteroides troyanos en las órbitas de Marte y de Neptuno, incluso la Tierra tiene uno de unos 300 metros de diámetro.</string>
+    <string name="titulo_asteroides_centauros">Centauros</string>
+    <string name="texto_asteroides_centauros">Son asteroides que se encuentran en la parte exterior del Sistema Solar, siguiendo una órbita cambiante entre los grandes planetas gaseosos.</string>
+    <string name="texto_asteroides_centauros_imagen">En la siguiente imagen podemos ver alguno de esos asteroides entre las órbitas de los planetas exteriores:</string>
+    
+    <!-- Planetas Enanos -->  
+    <string name="titulo_planetas_enanos_definicion">Definición</string>
+    <string name="texto_planetas_enanos_definicion1">Planeta Enano es una nueva definición de cuerpos celestes establecida en 2006 por la Unión Astronómica Internacional para distinguir algunos cuerpos de los planetas y de otros cuerpos menores. Para ser un planeta enano un cuerpo debe cumplir las siguientes características:</string>
+    <string name="texto_planetas_enanos_definicion21">Estar en órbita alrededor del Sol.</string>
+    <string name="texto_planetas_enanos_definicion22">Tener suficiente masa para que su propia gravedad proporcione al cuerpo una forma casi esférica.</string>
+    <string name="texto_planetas_enanos_definicion23">No ser un satélite de otro cuerpo.</string>
+    <string name="texto_planetas_enanos_definicion24">No haber limpiado la vecindad de su órbita, es decir, si tiene algún cuerpo cercano a su órbita no haber sido capaz de atraerlo o de repelerlo.</string>
+    <string name="texto_planetas_enanos_definicion3">Esta última es la característica que los diferencia de los 8 planetas reconocidos y sugiere que pudieron tener un origen diferente.</string>
+    <string name="texto_planetas_enanos_definicion4">Actualmente los 5 planetas enanos reconocidos son: Ceres, Pluto, Eris, Makemake y Haumea, aunque los científicos creen que puede haber docenas o incluso más de 100 esperando a ser descubiertos.</string>
+	<string name="texto_planetas_enanos_definicion_imagen1">En la siguiente imagen podemos ver las órbitas de dos de esos cuerpos más allá de las órbitas de los planetas, tanto la órbita de Pluto como la de Eris:</string>
+	<string name="texto_planetas_enanos_definicion_imagen2">En la siguiente imagen podemos ver una concepción artística de la nave New Horizons hacia Pluto y su satélite Charon. Con esta misión obtendremos mucha información sobre la superficie, atmósfera y temperatura de Pluto, y obtendremos imágenes mucho más cercanas y nítidas:</string>
+    
+    <string name="titulo_planetas_enanos_ceres">Ceres</string>
+    <string name="titulo_planetas_enanos_pluto">Pluto</string>
+    <string name="titulo_planetas_enanos_eris">Eris</string>
+    <string name="titulo_planetas_enanos_makemake">Makemake</string>
+    <string name="titulo_planetas_enanos_haumea">Haumea</string>
+    
+    <string name="tabla_planetas_enanos_region_cabecera">Región</string>
+    <string name="tabla_planetas_enanos_diametro_cabecera">Diámetro</string>
+    <string name="tabla_planetas_enanos_orbita_cabecera">Órbita</string>
+    <string name="tabla_planetas_enanos_satelites_cabecera">Satélites</string>
+    
+    <string name="tabla_planetas_enanos_ceres_region">Cinturón de asteroides</string>
+    <string name="tabla_planetas_enanos_ceres_diametro">975 km</string>
+    <string name="tabla_planetas_enanos_ceres_orbita">4,5 años</string>
+    <string name="tabla_planetas_enanos_ceres_satelites">0</string>
+    
+    <string name="tabla_planetas_enanos_pluto_region">Cinturón de Kuiper</string>
+    <string name="tabla_planetas_enanos_pluto_diametro">2.306 km</string>
+    <string name="tabla_planetas_enanos_pluto_orbita">248 años</string>
+    <string name="tabla_planetas_enanos_pluto_satelites">5</string>    
+
+    <string name="tabla_planetas_enanos_eris_region">Disco Disperso</string>
+    <string name="tabla_planetas_enanos_eris_diametro">2.400 km</string>
+    <string name="tabla_planetas_enanos_eris_orbita">557 años</string>
+    <string name="tabla_planetas_enanos_eris_satelites">1</string>     
+    
+    <string name="tabla_planetas_enanos_makemake_region">Cinturón de Kuiper</string>
+    <string name="tabla_planetas_enanos_makemake_diametro">1.300 a 1.900 km</string>
+    <string name="tabla_planetas_enanos_makemake_orbita">309 años</string>
+    <string name="tabla_planetas_enanos_makemake_satelites">0</string>   
+    
+    <string name="tabla_planetas_enanos_haumea_region">Cinturón de Kuiper</string>
+    <string name="tabla_planetas_enanos_haumea_diametro">1.400 km</string>
+    <string name="tabla_planetas_enanos_haumea_orbita">285 años</string>
+    <string name="tabla_planetas_enanos_haumea_satelites">2</string>       
+    
+</resources>

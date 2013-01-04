@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Formación -->
+
+        <Button
+            android:id="@+id/VerLunaTextoFormacion"
+            style="@style/botonVer"
+            android:text="@string/luna_titulo_formacion" />
+
+        <TextView
+            android:id="@+id/LunaTextoFormacionT"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_formacion" />
+
+        <ImageView
+            android:id="@+id/LunaTextoFormacion2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/luna_texto_formacion_imagen1" />
+
+        <TextView
+            android:id="@+id/LunaTextoFormacion3C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <Button
+            android:id="@+id/OcultarLunaTextoFormacion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Superficie -->
+
+        <Button
+            android:id="@+id/VerLunaTextoSuperficie"
+            style="@style/botonVer"
+            android:text="@string/titulo_superficie" />
+
+        <TextView
+            android:id="@+id/Superficie1T"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_superficie1" />
+
+        <TextView
+            android:id="@+id/Superficie2T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/luna_texto_superficie1_imagen1" />
+
+        <ImageView
+            android:id="@+id/Superficie3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/luna_texto_superficie_imagen1" />
+
+        <TextView
+            android:id="@+id/Superficie4C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_LPI" />
+
+        <TextView
+            android:id="@+id/Superficie5T"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_superficie2" />
+
+        <TextView
+            android:id="@+id/Superficie6T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/luna_texto_superficie2_imagen2" />
+
+        <ImageView
+            android:id="@+id/Superficie7I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/luna_texto_superficie_imagen2" />
+
+        <TextView
+            android:id="@+id/Superficie8C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_LPI" />
+
+        <Button
+            android:id="@+id/OcultarLunaTextoSuperficie"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Fases Lunares -->
+
+        <Button
+            android:id="@+id/VerLunaTextoFasesLunares"
+            style="@style/botonVer"
+            android:text="@string/luna_titulo_fases_lunares" />
+
+        <TextView
+            android:id="@+id/FasesLunares1T"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_fases_lunares" />
+
+        <Button
+            android:id="@+id/OcultarLunaTextoFasesLunares"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Observacion Estudio -->
+
+        <Button
+            android:id="@+id/VerLunaTextoObservacionEstudio"
+            style="@style/botonVer"
+            android:text="@string/titulo_observacion_estudio" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio1T"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_observacion_estudio1" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/luna_texto_observacion_estudio_imagen1" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio3C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio4T"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_observacion_estudio2" />
+
+        <TableLayout
+            android:id="@+id/ObservacionEstudio5"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/luna_texto_observacion_estudio3" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/ObservacionEstudio6T"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_observacion_estudio4" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio7T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/luna_texto_observacion_estudio_imagen1" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio8I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/luna_texto_observacion_estudio_imagen2" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio9T"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_observacion_estudio5" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio10T"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_observacion_estudio6" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio11I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/luna_texto_observacion_estudio_imagen3" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio12C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio13T"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_observacion_estudio7" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio14I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/luna_texto_observacion_estudio_imagen4" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio15C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio16T"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_observacion_estudio8" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio17T"
+            style="@style/TextoTexto"
+            android:text="@string/luna_texto_observacion_estudio9" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio18T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/luna_texto_observacion_estudio_imagen2" />
+
+        <ImageView
+            android:id="@+id/ObservacionEstudio19I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/luna_texto_observacion_estudio_imagen5" />
+
+        <TextView
+            android:id="@+id/ObservacionEstudio20C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <Button
+            android:id="@+id/OcultarLunaTextoObservacionEstudio"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

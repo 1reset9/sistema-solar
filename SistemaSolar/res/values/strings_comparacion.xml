@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="spin">spin</string>
+    
+    <string name="selecciona">Selecciona dos planetas para comparar sus características entre sí:</string>
+    
+    <string name="cabecera_tierra">Tierra</string>
+    
+    <string name="distancia">Distancia al Sol</string>
+    <string name="diametro">Diámetro</string>
+    <string name="densidad">Densidad</string>
+    <string name="gravedad">Gravedad</string>
+    <string name="periodo_rotacion">Periodo Rotación</string>
+    <string name="periodo_orbital">Periodo Orbital</string>
+    <string name="velocidad_orbital">Velocidad Orbital</string>
+    <string name="temperatura">Temperatura</string>
+	<string name="satelites">Satelites</string>
+    
+    <string name="mercurio_distancia">58 x 10^6 km</string>
+    <string name="mercurio_diametro">4.879 km</string>
+    <string name="mercurio_densidad">5,427 g/cm3</string>
+    <string name="mercurio_gravedad">3,7 m/s2</string>
+    <string name="mercurio_periodo_rotacion">58,64 días</string>
+    <string name="mercurio_periodo_orbital">0,24 años</string>
+    <string name="mercurio_velocidad_orbital">170.5 km/h</string>
+    <string name="mercurio_temperatura">de -173 a 427 °C</string>
+	<string name="mercurio_satelites">Ninguno</string>
+    
+    <string name="venus_distancia">108 x 10^6 km</string>
+    <string name="venus_diametro">12.103 km</string>
+    <string name="venus_densidad">5,243 g/cm3</string>
+    <string name="venus_gravedad">8,87 m/s2</string>
+    <string name="venus_periodo_rotacion">-243 días</string>
+    <string name="venus_periodo_orbital">0,61 años</string>
+    <string name="venus_velocidad_orbital">126 km/h</string>
+    <string name="venus_temperatura">Promedio 462 °C</string>
+	<string name="venus_satelites">Ninguno</string>
+    
+    <string name="tierra_distancia">149 x 10^6 km</string>
+    <string name="tierra_diametro">12.742 km</string>
+    <string name="tierra_densidad">5,513 g/cm3</string>
+    <string name="tierra_gravedad">9.80 m/s2</string>
+    <string name="tierra_periodo_rotacion">1 día</string>
+    <string name="tierra_periodo_orbital">1 año</string>
+    <string name="tierra_velocidad_orbital">107,2 km/h</string>
+    <string name="tierra_temperatura">de -88 a 58 °C</string>
+	<string name="tierra_satelites">1</string>
+    
+    <string name="marte_distancia">228 x 10^6 km</string>
+    <string name="marte_diametro">6.779 km</string>
+    <string name="marte_densidad">3.934 g/cm3</string>
+    <string name="marte_gravedad">3.7 m/s2</string>
+    <string name="marte_periodo_rotacion">1 día</string>
+    <string name="marte_periodo_orbital">1,88 años</string>
+    <string name="marte_velocidad_orbital">86,6 km/h</string>
+    <string name="marte_temperatura">de -133 a 27 °C</string>
+	<string name="marte_satelites">2</string>
+    
+    <string name="jupiter_distancia">778 x 10^6 km</string>
+    <string name="jupiter_diametro">139.822 km</string>
+    <string name="jupiter_densidad">1.326 g/cm3</string>
+    <string name="jupiter_gravedad">24.8 m/s2</string>
+    <string name="jupiter_periodo_rotacion">0,41 días</string>
+    <string name="jupiter_periodo_orbital">11,86 años</string>
+    <string name="jupiter_velocidad_orbital">47 km/h</string>
+    <string name="jupiter_temperatura">Promedio -108 °C</string>
+	<string name="jupiter_satelites">66</string>
+    
+    <string name="saturno_distancia">1.426 x 10^6 km</string>
+    <string name="saturno_diametro">116.464 km</string>
+    <string name="saturno_densidad">0.687 g/cm3</string>
+    <string name="saturno_gravedad">10.4 m/s2</string>
+    <string name="saturno_periodo_rotacion">0,44 días</string>
+    <string name="saturno_periodo_orbital">29,44 años</string>
+    <string name="saturno_velocidad_orbital">34,7 km/h</string>
+    <string name="saturno_temperatura">Promedio -139 °C</string>
+	<string name="saturno_satelites">62</string>
+    
+    <string name="urano_distancia">2.870 x 10^6 km</string>
+    <string name="urano_diametro">50.724 km</string>
+    <string name="urano_densidad">1.270 g/cm3</string>
+    <string name="urano_gravedad">8.8 m/s2</string>
+    <string name="urano_periodo_rotacion">-0,71 días</string>
+    <string name="urano_periodo_orbital">84,01 años</string>
+    <string name="urano_velocidad_orbital">24,4 km/h</string>
+    <string name="urano_temperatura">Promedio -197 °C</string>
+	<string name="urano_satelites">27</string>
+    
+    <string name="neptuno_distancia">4.498 x 10^6 km</string>
+    <string name="neptuno_diametro">49.244 km</string>
+    <string name="neptuno_densidad">1.638 g/cm3</string>
+    <string name="neptuno_gravedad">11.1 m/s2</string>
+    <string name="neptuno_periodo_rotacion">0,67 días</string>
+    <string name="neptuno_periodo_orbital">164,79 años</string>
+    <string name="neptuno_velocidad_orbital">19,5 km/h</string>
+    <string name="neptuno_temperatura">Promedio -201 °C</string>
+	<string name="neptuno_satelites">13</string>    
+    
+</resources>

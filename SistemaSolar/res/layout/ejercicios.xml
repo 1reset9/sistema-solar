@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/boton_planetas_padding" >
+
+        <TextView
+            android:id="@+id/textoOrdenacionDistancia"
+            style="@style/TextoEjercicios"
+            android:text="@string/ordenar_distancia" />
+
+        <Button
+            android:id="@+id/OrdenacionDistancia"
+            style="@style/botonPlaneta"
+            android:background="@drawable/boton_fondo_ejercicios"
+            android:text="@string/OrdenacionDistancia" />
+
+        <TextView
+            android:id="@+id/textoOrdenacionTamano"
+            style="@style/TextoEjercicios"
+            android:text="@string/ordenar_tamano" />
+
+        <Button
+            android:id="@+id/OrdenacionTamano"
+            style="@style/botonPlaneta"
+            android:background="@drawable/boton_fondo_ejercicios"
+            android:text="@string/OrdenacionTamano" />
+    </LinearLayout>
+
+</ScrollView>

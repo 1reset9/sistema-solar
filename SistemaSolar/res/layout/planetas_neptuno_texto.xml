@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Estructura -->
+
+        <Button
+            android:id="@+id/VerNeptunoTextoEstructura"
+            style="@style/botonVer"
+            android:text="@string/titulo_estructura_completa" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoEstructura1T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_estructura1" />
+
+        <TableLayout
+            android:id="@+id/NeptunoTextoEstructura2Tabla"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/neptuno_texto_estructura2" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/neptuno_texto_estructura3" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/neptuno_texto_estructura4" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/neptuno_texto_estructura5" />
+            </TableRow>
+        </TableLayout>
+
+        <ImageView
+            android:id="@+id/NeptunoTextoEstructura3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/neptuno_texto_estructura_imagen1" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoEstructura33C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Licencia_CCA3.0" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoEstructura4T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_estructura6" />
+
+        <Button
+            android:id="@+id/OcultarNeptunoTextoEstructura"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Orbita y Rotacion -->
+
+        <Button
+            android:id="@+id/VerNeptunoTextoOrbitaRotacion"
+            style="@style/botonVer"
+            android:text="@string/titulo_orbita_rotacion" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoOrbitaRotacion1T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_orbita_rotacion1" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoOrbitaRotacion2T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_orbita_rotacion2" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoOrbitaRotacion3T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_orbita_rotacion3" />
+
+        <Button
+            android:id="@+id/OcultarNeptunoTextoOrbitaRotacion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Satélites Naturales -->
+
+        <Button
+            android:id="@+id/VerNeptunoTextoSatelites"
+            style="@style/botonVer"
+            android:text="@string/titulo_satelites_naturales" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoSatelites1T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_satelites1" />
+
+        <ImageView
+            android:id="@+id/NeptunoTextoSatelites3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/neptuno_texto_satelites_imagen1" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoSatelites4C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoSatelites5T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_satelites2" />
+
+        <Button
+            android:id="@+id/OcultarNeptunoTextoSatelites"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Sistema de Anillos -->
+
+        <Button
+            android:id="@+id/VerNeptunoTextoAnillos"
+            style="@style/botonVer"
+            android:text="@string/titulo_anillos" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoAnillos1T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_anillos1" />
+
+        <TableLayout
+            android:id="@+id/NeptunoTextoAnillos2Tabla"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/neptuno_texto_anillos2" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/neptuno_texto_anillos3" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/neptuno_texto_anillos4" />
+            </TableRow>
+        </TableLayout>
+
+        <ImageView
+            android:id="@+id/NeptunoTextoAnillos3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/neptuno_texto_anillos_imagen1" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoAnillos4T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_anillos5" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoAnillos5T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_anillos6" />
+
+        <Button
+            android:id="@+id/OcultarNeptunoTextoAnillos"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Observación y Estudio -->
+
+        <Button
+            android:id="@+id/VerNeptunoTextoObservacionEstudio"
+            style="@style/botonVer"
+            android:text="@string/titulo_observacion_estudio" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoObservacionEstudio1T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_observacion_estudio1" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoObservacionEstudio2T"
+            style="@style/TextoTexto"
+            android:text="@string/neptuno_texto_observacion_estudio2" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoObservacionEstudio3T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/neptuno_texto_observacion_estudio_imagen1" />
+
+        <ImageView
+            android:id="@+id/NeptunoTextoObservacionEstudio4I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/neptuno_texto_observacion_estudio_imagen1" />
+
+        <TextView
+            android:id="@+id/NeptunoTextoObservacionEstudio5C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <Button
+            android:id="@+id/OcultarNeptunoTextoObservacionEstudio"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

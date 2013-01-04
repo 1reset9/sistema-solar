@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      
+    <string name="marte_texto_estructura1">Igual que la Tierra tiene un núcleo metálico mucho más sólido, recubierto por materiales menos densos. El núcleo es parcialmente líquido. Está rodeado por un manto de silicatos donde se forman muchas de las características tectónicas y volcánicas del planeta, pero ahora parece estar inactivo. Después se encuentra la corteza con un espesor medio de unos 50 km, los elementos más abundantes en la corteza son el silicio, oxígeno, hierro, magnesio, aluminio, calcio y potasio.</string>
+
+    <string name="marte_texto_superficie1">La composición de la superficie es fundamentalmente basalto volcánico con un alto contenido en óxidos de hierro que le da su característico color rojizo.</string>
+    <string name="marte_texto_superficie2">Las manchas oscuras y brillantes que pueden verse con telescopios desde la Tierra son polvo oscuro sobre la superficie. Las regiones brillantes de color naranja rojizo forman las tres cuartas partes de la superficie y reciben el nombre de desiertos, que en realidad están cubiertos de piedras. La existencia de atmósfera hace que recorra la superficie un viento que arrastra partículas sólidas que provocan gran erosión.</string>
+    <string name="marte_texto_superficie3">Los científicos creen que Marte tuvo grandes inundaciones hace 3.500 millones de años, aunque no sabemos de dónde vino ese agua, cuánto duró ni a dónde fue. </string>
+    <string name="marte_texto_superficie4">En el hemisferio norte se encuentra el Monte Olympus, el volcán más grande de todo el Sistema Solar, tiene una altura de 25 km y una base de 600 km.</string>
+    <string name="marte_texto_superficie5">Cerca del Ecuador está el cañón Marineris, con una longitud de 2.700 km, una anchura de hasta 500 km y una profundidad entre 2 y 7 km. Se formó por el hundimiento del terreno a causa de la formación del abultamiento de Tharsis.</string>
+    <string name="marte_texto_superficie6">En la superficie existen valles por los que pudieron haber corrido ríos de lava y posteriormente de agua. Se conservan auténticas redes hidrográficas en la superficie, hoy secas. Las frías temperaturas y la fina atmósfera no permitieron que el agua líquida existiera en la superficie por mucho tiempo.</string>
+    
+    <string name="marte_texto_orbita_rotacion1">Marte tarda 687 días terrestres en dar una vuelta alrededor del Sol siguiendo una órbita muy excéntrica, habiendo 42.4 millones de kilómetros de diferencia entre el punto de su órbita más cercano al Sol y el más lejano. Esto afecta notablemente al clima ya que provoca un cambio en la temperatura de unos 30 grados centígrados. Un clima en el que hay estaciones de forma parecida a la Tierra ya que tiene un ángulo de inclinación del eje respecto al plano de la órbita de 25,19 grados, muy parecido al de la Tierra.</string>
+    <string name="marte_texto_orbita_rotacion2">Gracias a las manchas de la superficie fue fácil medir el periodo de rotación de Marte, sabemos que el tiempo que tarda en girar sobre sí mismo, el tiempo de lo que sería un día en Marte es de 24 horas y 37 minutos.</string>
+    
+    <string name="marte_texto_satelites_naturales_titulo">Satélites Naturales</string>
+    <string name="marte_texto_satelites_naturales1">Marte tiene dos pequeños satélites naturales: Phobos y Deimos, que pudieron ser asteroides que fueron capturados. Tienen forma de patatas debido a que tienen muy poca masa como para que la gravedad les hiciera adquirir forma redonda. Su órbita está muy próxima a la del planeta.</string>
+    <string name="marte_texto_satelites_naturales_imagen1">En la siguiente imagen podemos ver el satélite Phobos:</string>
+    <string name="marte_texto_satelites_naturales_imagen2">En la siguiente imagen podemos ver el satélite Deimos:</string>
+   
+    <string name="marte_video_texto1">Marte es el cuarto planeta desde el Sol y el segundo más pequeño del Sistema Solar.</string>
+    <string name="marte_video_texto2">Tiene una fina atmósfera cuya presión es una centésima parte de la terrestre.</string>
+    <string name="marte_video_texto3">Su superficie recuerda en parte a los cráteres de la Luna y en parte a los volcanes, valles, desiertos y casquetes polares de la Tierra. En dicha superficie destacan el monte Olympus, la montaña conocida más alta del Sistema Solar y el valle Marineris, uno de los mayores cañones.</string>
+    <string name="marte_video_texto4">Un cuerpo en Marte pesaría un tercio de lo que pesa en la Tierra debido a la menor fuerza gravitatoria.</string> 
+    <string name="marte_video_texto5">El nombre viene el dios romano de la guerra debido a su color rojo, color sangre.</string>
+    
+    <string name="marte_texto_extra_exploracion_titulo">Exploración de Marte</string>
+    <string name="marte_texto_extra_exploracion1">La primera sonda en llegar hasta Marte fue la sonda soviética Mars 1, en 1963. La sonda tomó fotos de la superficie y consiguió información sobre la atmósfera y el campo magnético.</string>
+    <string name="marte_texto_extra_exploracion2">El programa Mariner de la NASA lanzó unas sondas que llegarían a Marte en 1965, consiguiendo las primeras fotos cercanas del planeta, mostrando un paisaje desolado, desértico y con muchos cráteres.</string>
+    
+    <string name="marte_texto_extra_70s_titulo">1970 a 1979</string>
+    <string name="marte_texto_extra_70s1">La Mariner 9 se convirtió en el primer satélite artificial de Marte en 1971. Consiguió captar las grandes tormentas de polvo que se originan en el hemisferio sur y oscurecen toda la superficie.</string>
+    <string name="marte_texto_extra_70s2">La URSS consiguió aterrizar en la superficie un vehículo controlado a distancia en su misión Marsnik 3. Poco después de iniciar la transferencia de la primera imagen perdió el contacto con la Tierra. La sonda Marsnik 5 se situó en órbita marciana en 1974 y envió fotografías.</string>
+    <string name="marte_texto_extra_70s3">En 1976 la NASA consigue aterrizar dos vehículos de exploración en la superficie que consiguieron transmitir fotografías: Viking 1 y Viking 2. Estas misiones realizaron experimentos para intentar detectar vida en Marte.</string>
+    
+    <string name="marte_texto_extra_8090s_titulo">1980 a 1999</string>
+    <string name="marte_texto_extra_8090s1">En esta época hubo varias misiones que fracasaron: una misión soviético-europea, la misión Mars Observer de los Estados Unidos, la misión rusa Mars 96, la misión japonesa Nozomi y las misiones de Estados Unidos de 1999 Mars Climate Orbiter y Mars Polar Lander.</string>
+    <string name="marte_texto_extra_8090s2">En 1997 la misión Mars Pathfinder de la Nasa desciende a la superficie con un vehículo de exploración que pudo explorar y transmitir durante dos meses. Ese mismo año se consiguió poner en órbita a la sonda Mars Global Surveyor.</string>
+    
+    <string name="marte_texto_extra_s21_titulo">Siglo XXI</string>
+    <string name="marte_texto_extra_s211">El 7 de abril de 2001 La NASA envió a Marte la sonda espacial Mars Odyssey, que entró en órbita el 20 de octubre, con el objetivo de estudiar el clima y hacer un mapa de la superficie, así como establecer un enlace para la comunicación con los robots que están en el suelo. Descubrió la existencia de hielo, lo que apoya la teoría de las grandes cantidades de agua en Marte.</string>
+    <string name="marte_texto_extra_s21_imagen1">En la siguiente imagen podemos ver una representación artística de la sonda Odyssey en la órbita de Marte:</string>
+    <string name="marte_texto_extra_s212">En 2003 la Agencia Espacial Europea envió la sonda Mars Express, que permanece en órbita. La misión tenía un módulo que pretendía aterrizar en la superficie pero falló. Fue la primera misión interplanetaria de la Agencia Europea.</string>
+    <string name="marte_texto_extra_s21_imagen2">En la siguiente imagen podemos ver una representación artística de la nave espacial Mars Express:</string>
+    <string name="marte_texto_extra_s213">En 2004 la NASA envió dos robots a la superficie de Marte, el Spirit y el Opportunity, que realizaron exploraciones así como mediciones de las condiciones atmosféricas. Volvieron a confirmar que en algún momento hubo grandes cantidades de agua y que ahora hay hielo.</string>
+    <string name="marte_texto_extra_s21_imagen3">En la siguiente imagen podemos ver el Opportunity fotografiando su propia sombra en una tarde en el cráter Endeavour.</string>
+    <string name="marte_texto_extra_s214">En 2005 la NASA envió la Mars Reconnaissance Orbiter, para hacer observaciones más detalladas con el objetivo de encontrar zonas de aterrizaje para futuras misiones. Es el cuarto satélite artificial en Marte. Puede obtener imágenes de alta resolución que han servido por ejemplo para marcar el camino a seguir para el robot Opportunity.</string>
+    <string name="marte_texto_extra_s21_imagen4">En la siguiente imagen podemos ver una concepción artística de la Mars Reconnaissance Orbiter sobrevolando Marte.</string>
+    <string name="marte_texto_extra_s215">En 2007 la NASA lanzó la sonda Phoenix que aterrizó en el polo norte de Marte en 2008. Los objetivos de esta misión fueron: averiguar si hubo vida en Marte o si pudo haber, estudiar el clima y la geología de Marte, y estudiar la historia geológica del agua para saber más sobre los cambios climáticos del planeta.</string>
+    <string name="marte_texto_extra_s21_imagen5">En la siguiente imagen podemos ver una concepción artística del sofisticado sistema de aterrizaje de la sonda Phoenix.</string>
+    <string name="marte_texto_extra_s216">En 2011 la NASA lanzó la misión Mars Science Laboratory, conocida como Curiosity, que incluye un vehículo explorador de tipo Rover que aterrizó en la superficie en agosto de 2012. La misión incluye los instrumentos científicos más avanzados de todas las misiones a Marte para estudiar la capacidad pasada y presente del planeta para alojar vida, así como preparar la exploración humana de Marte. Se espera que el vehículo recorra unos 19 km a lo largo de dos años terrestres.</string>    
+
+</resources>

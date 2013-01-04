@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/selecciona"
+            style="@style/TablaTexto.Selecciona"
+            android:layout_marginTop="@dimen/padding_5"
+            android:text="@string/selecciona" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Spinner
+                android:id="@+id/spinner_comparar_planetas1"
+                style="@style/Spinner"
+                android:drawSelectorOnTop="true" />
+
+            <Spinner
+                android:id="@+id/spinner_comparar_planetas2"
+                style="@style/Spinner"
+                android:drawSelectorOnTop="true" />
+        </LinearLayout>
+
+        <TableLayout
+            android:id="@+id/tabla_cuerpo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margen_tabla"
+            android:layout_marginRight="@dimen/margen_tabla" >
+
+            <TableRow android:id="@+id/filaCabecera" >
+
+                <TextView
+                    android:id="@+id/cabecera_planeta1"
+                    style="@style/TablaTexto.CabeceraPlaneta1"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/cabecera_planeta2"
+                    style="@style/TablaTexto.CabeceraPlaneta2"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/filaDiametro"
+                android:layout_marginLeft="@dimen/margen_tabla_propiedad"
+                android:layout_marginRight="@dimen/margen_tabla_propiedad" >
+
+                <TextView
+                    android:id="@+id/diametro"
+                    style="@style/TablaTexto.Propiedad"
+                    android:text="@string/diametro" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaDiametro2" >
+
+                <TextView
+                    android:id="@+id/diametro1"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/diametro2"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/filaDistancia"
+                android:layout_marginLeft="@dimen/margen_tabla_propiedad"
+                android:layout_marginRight="@dimen/margen_tabla_propiedad" >
+
+                <TextView
+                    android:id="@+id/distancia"
+                    style="@style/TablaTexto.Propiedad"
+                    android:text="@string/distancia" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaDistancia2" >
+
+                <TextView
+                    android:id="@+id/distancia1"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/distancia2"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/filaDensidad"
+                android:layout_marginLeft="@dimen/margen_tabla_propiedad"
+                android:layout_marginRight="@dimen/margen_tabla_propiedad" >
+
+                <TextView
+                    android:id="@+id/densidad"
+                    style="@style/TablaTexto.Propiedad"
+                    android:text="@string/densidad" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaDensidad2" >
+
+                <TextView
+                    android:id="@+id/densidad1"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/densidad2"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/filaGravedad"
+                android:layout_marginLeft="@dimen/margen_tabla_propiedad"
+                android:layout_marginRight="@dimen/margen_tabla_propiedad" >
+
+                <TextView
+                    android:id="@+id/gravedad"
+                    style="@style/TablaTexto.Propiedad"
+                    android:text="@string/gravedad" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaGravedad2" >
+
+                <TextView
+                    android:id="@+id/gravedad1"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/gravedad2"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/filaPeriodoRotacion"
+                android:layout_marginLeft="@dimen/margen_tabla_propiedad"
+                android:layout_marginRight="@dimen/margen_tabla_propiedad" >
+
+                <TextView
+                    android:id="@+id/periodo_rotacion"
+                    style="@style/TablaTexto.Propiedad"
+                    android:text="@string/periodo_rotacion" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaPeriodoRotacion2" >
+
+                <TextView
+                    android:id="@+id/periodo_rotacion1"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/periodo_rotacion2"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/filaPeriodoOrbital"
+                android:layout_marginLeft="@dimen/margen_tabla_propiedad"
+                android:layout_marginRight="@dimen/margen_tabla_propiedad" >
+
+                <TextView
+                    android:id="@+id/periodo_orbital"
+                    style="@style/TablaTexto.Propiedad"
+                    android:text="@string/periodo_orbital" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaPeriodoOrbital2" >
+
+                <TextView
+                    android:id="@+id/periodo_orbital1"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/periodo_orbital2"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/filaVelocidadOrbital"
+                android:layout_marginLeft="@dimen/margen_tabla_propiedad"
+                android:layout_marginRight="@dimen/margen_tabla_propiedad" >
+
+                <TextView
+                    android:id="@+id/velocidad_orbital"
+                    style="@style/TablaTexto.Propiedad"
+                    android:text="@string/velocidad_orbital" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaVelocidadOrbital2" >
+
+                <TextView
+                    android:id="@+id/velocidad_orbital1"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/velocidad_orbital2"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/filaTemperatura"
+                android:layout_marginLeft="@dimen/margen_tabla_propiedad"
+                android:layout_marginRight="@dimen/margen_tabla_propiedad" >
+
+                <TextView
+                    android:id="@+id/temperatura"
+                    style="@style/TablaTexto.Propiedad"
+                    android:text="@string/temperatura" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaTemperatura2" >
+
+                <TextView
+                    android:id="@+id/temperatura1"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/temperatura2"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/filaSatelites"
+                android:layout_marginLeft="@dimen/margen_tabla_propiedad"
+                android:layout_marginRight="@dimen/margen_tabla_propiedad" >
+
+                <TextView
+                    android:id="@+id/satelites"
+                    style="@style/TablaTexto.Propiedad"
+                    android:text="@string/satelites" />
+            </TableRow>
+
+            <TableRow android:id="@+id/filaSatelites2" >
+
+                <TextView
+                    android:id="@+id/satelites1"
+                    style="@style/TablaTexto.Planeta1"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/satelites2"
+                    style="@style/TablaTexto.Planeta2"
+                    android:text="" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/boton_planetas_padding" >
+
+        <Button
+            android:id="@+id/Mercurio"
+            style="@style/botonPlaneta"
+            android:background="@drawable/boton_fondo_mercurio"
+            android:text="@string/Mercurio" />
+
+        <Button
+            android:id="@+id/Venus"
+            style="@style/botonPlaneta"
+            android:background="@drawable/boton_fondo_venus"
+            android:text="@string/Venus" />
+
+        <Button
+            android:id="@+id/Tierra"
+            style="@style/botonPlaneta"
+            android:background="@drawable/boton_fondo_tierra"
+            android:text="@string/Tierra" />
+
+        <Button
+            android:id="@+id/Luna"
+            style="@style/botonPlaneta"
+            android:background="@drawable/boton_fondo_luna"
+            android:text="@string/Luna" />
+
+        <Button
+            android:id="@+id/Marte"
+            style="@style/botonPlaneta"
+            android:background="@drawable/boton_fondo_marte"
+            android:text="@string/Marte" />
+
+        <Button
+            android:id="@+id/Jupiter"
+            style="@style/botonPlaneta"
+            android:background="@drawable/boton_fondo_jupiter"
+            android:text="@string/Jupiter" />
+
+        <Button
+            android:id="@+id/Saturno"
+            style="@style/botonPlaneta"
+            android:background="@drawable/boton_fondo_saturno"
+            android:text="@string/Saturno" />
+
+        <Button
+            android:id="@+id/Urano"
+            style="@style/botonPlaneta"
+            android:background="@drawable/boton_fondo_urano"
+            android:text="@string/Urano" />
+
+        <Button
+            android:id="@+id/Neptuno"
+            style="@style/botonPlaneta"
+            android:background="@drawable/boton_fondo_neptuno"
+            android:text="@string/Neptuno" />
+    </LinearLayout>
+
+</ScrollView>

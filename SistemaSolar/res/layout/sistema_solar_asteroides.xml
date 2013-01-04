@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto CINTURÓN DE ASTEROIDES -->
+
+        <Button
+            android:id="@+id/VerAsteroidesCinturonAsteroides"
+            style="@style/botonVer"
+            android:text="@string/titulo_asteroides_cinturon_asteroides" />
+
+        <TextView
+            android:id="@+id/AsteroidesCinturonAsteroidesT"
+            style="@style/TextoTexto"
+            android:text="@string/asteroides_cinturon_asteroides" />
+
+        <ImageView
+            android:id="@+id/AsteroidesCinturonAsteroidesI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_asteroides_cinturon_asteroides" />
+
+        <TextView
+            android:id="@+id/AsteroidesCinturonAsteroidesC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <TextView
+            android:id="@+id/AsteroidesCinturonAsteroidesT2"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/texto_asteroides_cinturon_asteroides_imagen" />
+
+        <ImageView
+            android:id="@+id/AsteroidesCinturonAsteroidesI2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_asteroides_cinturon_asteroides2" />
+
+        <Button
+            android:id="@+id/OcultarAsteroidesCinturonAsteroides"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto CERCANOS A LA TIERRA -->
+
+        <Button
+            android:id="@+id/VerAsteroidesCercanosTierra"
+            style="@style/botonVer"
+            android:text="@string/titulo_asteroides_cercanos_tierra" />
+
+        <TextView
+            android:id="@+id/AsteroidesCercanosTierraT"
+            style="@style/TextoTexto"
+            android:text="@string/texto_asteroides_cercanos_tierra" />
+
+        <TextView
+            android:id="@+id/AsteroidesCercanosTierraT2"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/texto_asteroides_cercanos_tierra_imagen" />
+
+        <ImageView
+            android:id="@+id/AsteroidesCercanosTierraI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_asteroides_cercanos_tierra" />
+
+        <TextView
+            android:id="@+id/AsteroidesCercanosTierraC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Licencia_CCA3.0" />
+
+        <Button
+            android:id="@+id/OcultarAsteroidesCercanosTierra"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto TROYANOS -->
+
+        <Button
+            android:id="@+id/VerAsteroidesTroyanos"
+            style="@style/botonVer"
+            android:text="@string/titulo_texto_asteroides_troyanos" />
+
+        <TextView
+            android:id="@+id/AsteroidesTroyanosT"
+            style="@style/TextoTexto"
+            android:text="@string/texto_asteroides_troyanos" />
+
+        <Button
+            android:id="@+id/OcultarAsteroidesTroyanos"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto CENTAUROS -->
+
+        <Button
+            android:id="@+id/VerAsteroidesCentauros"
+            style="@style/botonVer"
+            android:text="@string/titulo_asteroides_centauros" />
+
+        <TextView
+            android:id="@+id/AsteroidesCentaurosT"
+            style="@style/TextoTexto"
+            android:text="@string/texto_asteroides_centauros" />
+
+        <TextView
+            android:id="@+id/AsteroidesCentaurosT2"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/texto_asteroides_centauros_imagen" />
+
+        <ImageView
+            android:id="@+id/AsteroidesCentaurosI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_asteroides_centauros" />
+
+        <TextView
+            android:id="@+id/AsteroidesCentaurosC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Licencia_CCA3.0" />
+
+        <Button
+            android:id="@+id/OcultarAsteroidesCentauros"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

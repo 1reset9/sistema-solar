@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="neptuno_texto_estructura1">El modelo de estructura interna que se cree que tiene el planeta es:</string>
+    <string name="neptuno_texto_estructura2">Núcleo: compacto y rocoso, formado principalmente por hierro, niquel y silicatos.</string>
+    <string name="neptuno_texto_estructura3">Manto: rodeando al núcleo, es un fluido de gran conductividad eléctrica muy denso y caliente formado por agua y amoníaco.</string>
+    <string name="neptuno_texto_estructura4">Atmósfera: está formada en un 80 por ciento por hidrógeno y un 19 por ciento de helio, que hace que el planeta tenga un intenso azul oscuro. Tiene varias capas que se transforman en hielo al aumentar la profundidad.</string>
+    <string name="neptuno_texto_estructura5">Zona alta de la atmósfera: formada por nubes.</string>
+    <string name="neptuno_texto_estructura6">Aunque en la superficie tiene una temperatura muy baja debido a que su órbita está muy lejos del Sol, parece tener una fuente interna de calor que está irradiando hacia el espacio.</string>
+    
+    <string name="neptuno_texto_orbita_rotacion1">La distancia media entre el Sol y Neptuno es de 4.500 millones de kilómetros y tarda en dar una vuelta completa al Sol 164,79 años.</string>
+    <string name="neptuno_texto_orbita_rotacion2">La inclinación del eje de Neptuno es de 28,32 grados, parecido a los 23 grados de la Tierra, teniendo por tanto unos cambios de estaciones parecidos, sólo que cada estación dura unos 40 años.</string>
+    <string name="neptuno_texto_orbita_rotacion3">Su periodo de rotación, el tiempo que tarda en dar una vuelta sobre sí mismo, es de unas 16,11 horas. Al no ser un cuerpo sólido su atmósfera tiene un periodo de rotación diferente, siendo de unas 18 horas. Como contraste en las zonas polares el periodo de rotación es de unas 12 horas.</string>
+ 
+    <string name="neptuno_texto_satelites1">Actualmente se conocen 13 satélites naturales de Neptuno, el mayor de ellos es Tritón, que tiene el 99% de la masa de los satélites, con un diámetro de 2.700 km. En su superficie se han detectado géiseres de nitrógeno. Tiene forma esférica mientras que los demás tienen formas irregulares. Tritón es considerado un objeto del Cinturón de Kuiper que fue capturado por la gravedad de Neptuno.</string>
+    <string name="neptuno_texto_satelites2">Nereida es otro de los satélites, tiene 340 km de diámetro y la órbita más excéntrica de todos los satélites del Sistema Solar, con una distancia que varía entre uno y nueve millones de kilómetros.</string>
+    
+    <string name="neptuno_texto_anillos1">Neptuno tiene un sistema de anillos muy tenue, más parecido al de Júpiter que a los de Urano y Saturno. Están formados por hielo y silicatos, así como compuestos orgánicos que le hacen tener un color muy oscuro. Tiene seis anillos conocidos de los que tres son los anillos principales:</string>
+    <string name="neptuno_texto_anillos2">El anillo Adams, es el más exterior. Es un anillo muy estrecho, a 63.000 km del centro. Tiene cinco prominentes arcos.</string>
+    <string name="neptuno_texto_anillos3">El anillo Le Verrier, a 53.000 km</string>
+    <string name="neptuno_texto_anillos4">El anillo Galle, a 42.000 km, es el más ancho de los tres.</string>
+    <string name="neptuno_texto_anillos5">Se cree que son anillos relativamente jóvenes, con una edad bastante menor que la del Sistema Solar, siendo posible que se formaran por la fragmentación de los restos de uno ó varios satélites interiores de Neptuno.</string>
+    <string name="neptuno_texto_anillos6">Observaciones desde la Tierra han revelado que el sistema no está en equilibrio y que los anillos de Neptuno son mucho más inestables de lo que se creía.</string>
+     
+    <string name="neptuno_texto_observacion_estudio1">Fue observado por Galileo en 1611 pero lo confundió con una estrella. Fue al descubrir el planeta Urano cuando se observó que las órbitas de Urano, Saturno y Júpiter no se comportaban como predecían las leyes de Kepler y Newton. Adams y Le Verrier calcularon de forma independiente la posición del hipotético planeta, siendo descubierto después en esa posición por Galle en 1846.</string>
+    <string name="neptuno_texto_observacion_estudio2">La única misión que se ha acercado a Neptuno ha sido la Voyager 2 de la NASA, siendo en 1989 cuando estuvo más cerca. Se pudo estudiar el campo magnético y también el periodo de rotación, para lo que se utilizaron mediciones de emisiones de radio. También se pudo observar el clima tan activo que tiene el planeta. Se descubrieron nuevos satélites y nuevos anillos.</string>
+    <string name="neptuno_texto_observacion_estudio_imagen1">En la siguiente imagen podemos ver las trayectorias que siguieron las naves gemelas Voyager por los cuatro planetas gaseosos. En sus trayectorias lograron la velocidad suficiente para escapar del Sistema Solar.</string>
+    
+    <string name="neptuno_video_texto1">Neptuno es el octavo planeta del Sistema Solar, es el más alejado. Es el cuarto planeta más grande en diámetro y el tercero en masa, siendo su masa 17 veces la de la Tierra.</string>
+    <string name="neptuno_video_texto2">Fue descubierto gracias a predicciones matemáticas.</string>
+    <string name="neptuno_video_texto3">Es un planeta en el que hay mucho dinamismo, se forman enormes tormentas y enormes huracanes que pueden tener el tamaño de la Tierra. Tiene los vientos más fuertes de cualquier planeta del Sistema Solar.</string>
+    <string name="neptuno_video_texto4">Su nombre se puso en honor al dios romano del mar.</string>
+
+</resources>

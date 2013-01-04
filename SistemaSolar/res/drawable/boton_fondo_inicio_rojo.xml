@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true"><shape>
+            <solid android:color="@color/boton_inicio_startColor_rojo" />
+
+            <stroke android:width="@dimen/boton_inicio_borde" android:color="@color/boton_inicio_endColor_rojo" />
+
+            <corners android:radius="@dimen/boton_inicio_bordeRadio" />
+
+            <padding android:bottom="@dimen/boton_inicio_padding" android:left="@dimen/boton_inicio_padding" android:right="@dimen/boton_inicio_padding" android:top="@dimen/boton_inicio_padding" />
+        </shape></item>
+    <item><shape>
+            <gradient android:angle="@integer/boton_inicio_angle" android:endColor="@color/boton_inicio_endColor_rojo" android:startColor="@color/boton_inicio_startColor_rojo" />
+
+            <stroke android:width="@dimen/boton_inicio_borde" android:color="@color/boton_inicio_endColor_rojo" />
+
+            <corners android:radius="@dimen/boton_inicio_bordeRadio" />
+
+            <padding android:bottom="@dimen/boton_inicio_padding" android:left="@dimen/boton_inicio_padding" android:right="@dimen/boton_inicio_padding" android:top="@dimen/boton_inicio_padding" />
+        </shape></item>
+
+</selector>

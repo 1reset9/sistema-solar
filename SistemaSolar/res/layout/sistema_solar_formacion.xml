@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto FORMACIÓN DEL SISTEMA SOLAR -->
+
+        <Button
+            android:id="@+id/VerFormacionSistemaSolar"
+            style="@style/botonVer"
+            android:text="@string/titulo_formacion_sistema_solar" />
+
+        <TextView
+            android:id="@+id/FormacionSistemaSolarT"
+            style="@style/TextoTexto"
+            android:text="@string/formacion_sistema_solar" />
+
+        <ImageView
+            android:id="@+id/FormacionSistemaSolarI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_formacion_sistema_solar" />
+
+        <TextView
+            android:id="@+id/FormacionSistemaSolarC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA_JPL" />
+
+        <Button
+            android:id="@+id/OcultarFormacionSistemaSolar"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto FORMACIÓN DE LOS PLANETAS ROCOSOS -->
+
+        <Button
+            android:id="@+id/VerFormacionPlanetasRocosos"
+            style="@style/botonVer"
+            android:text="@string/titulo_formacion_planetas_rocosos" />
+
+        <TextView
+            android:id="@+id/FormacionPlanetasRocososT"
+            style="@style/TextoTexto"
+            android:text="@string/formacion_planetas_rocosos" />
+
+        <Button
+            android:id="@+id/OcultarFormacionPlanetasRocosos"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto FORMACIÓN DE LOS PLANETAS GASEOSOS -->
+
+        <Button
+            android:id="@+id/VerFormacionPlanetasGaseosos"
+            style="@style/botonVer"
+            android:text="@string/titulo_formacion_planetas_gaseosos" />
+
+        <TextView
+            android:id="@+id/FormacionPlanetasGaseososT"
+            style="@style/TextoTexto"
+            android:text="@string/formacion_planetas_gaseosos" />
+
+        <Button
+            android:id="@+id/OcultarFormacionPlanetasGaseosos"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

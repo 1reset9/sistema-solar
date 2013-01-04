@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextoTitulo">
+        <item name="android:textSize">@dimen/texto_titulo</item>
+        <item name="android:textColor">@color/texto_titulo</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:padding">@dimen/padding_5</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TextoTitulo.2">
+        <item name="android:textSize">@dimen/texto_titulo_2</item>
+        <item name="android:textColor">@color/texto_titulo_2</item>
+    </style>
+
+    <style name="TextoTexto">
+        <item name="android:textSize">@dimen/texto_texto</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:padding">@dimen/padding_3</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TextoVideo">
+        <item name="android:textSize">@dimen/texto_texto</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:paddingTop">@dimen/padding_3</item>
+        <item name="android:paddingBottom">@dimen/padding_3</item>
+        <item name="android:paddingLeft">@dimen/padding_10</item>
+        <item name="android:paddingRight">@dimen/padding_10</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/texto_texto_imagen</item>
+    </style>
+
+    <style name="TextoTexto.Imagen">
+        <item name="android:textColor">@color/texto_texto_imagen</item>
+    </style>
+
+    <style name="TextoFotos">
+        <item name="android:textSize">@dimen/texto_fotos</item>
+        <item name="android:textColor">@color/texto_fotos</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:padding">@dimen/padding_5</item>
+    </style>
+
+    <style name="TextoFotosCredito">
+        <item name="android:textSize">@dimen/texto_fotos_credito</item>
+        <item name="android:padding">@dimen/padding_5</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="botonPlaneta">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/boton_height</item>
+        <item name="android:layout_marginBottom">@dimen/boton_marginBottom</item>
+        <item name="android:textSize">@dimen/texto_boton</item>
+    </style>
+
+    <style name="botonInicio">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/boton_height_inicio</item>
+        <item name="android:layout_marginBottom">@dimen/boton_inicio_marginBottom</item>
+        <item name="android:textSize">@dimen/texto_boton</item>
+        <item name="android:background">@drawable/boton_fondo_inicio</item>
+    </style>
+
+    <style name="botonInicio.Rojo">
+        <item name="android:background">@drawable/boton_fondo_inicio_rojo</item>
+    </style>
+
+    <style name="botonInicio.Naranja">
+        <item name="android:background">@drawable/boton_fondo_inicio_naranja</item>
+    </style>
+
+    <style name="botonInicio.Ultimo">
+        <item name="android:background">@drawable/boton_fondo_inicio_gris</item>
+        <item name="android:layout_marginBottom">0dp</item>
+    </style>
+
+    <style name="botonVer">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/boton_titulo_height</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/padding_3</item>
+        <item name="android:background">@drawable/boton_fondo_ver</item>
+        <item name="android:textSize">@dimen/texto_titulo</item>
+        <item name="android:textColor">@color/texto_titulo</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:layout_marginBottom">@dimen/boton_ver_marginBottom</item>
+    </style>
+
+    <style name="botonOcultar">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/boton_titulo_height_ocultar</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/padding_3</item>
+        <item name="android:background">@drawable/boton_fondo_ocultar</item>
+        <item name="android:textSize">@dimen/texto_texto</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+        <item name="android:layout_marginBottom">@dimen/boton_ocultar_marginBottom</item>
+    </style>
+
+    <style name="botonVerVideo">
+        <item name="android:layout_width">@dimen/boton_ver_video_width</item>
+        <item name="android:layout_height">@dimen/boton_ver_video_height</item>
+        <item name="android:layout_marginTop">@dimen/boton_ver_video_marginTop</item>
+    </style>
+
+    <style name="botonVolverVideo">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/tab_height</item>
+        <item name="android:textSize">@dimen/texto_tab</item>
+        <item name="android:textAppearance">@android:style/Theme.Holo.Light.DarkActionBar</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/tab_texto</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="botonVolverVideo.Planetas">
+        <item name="android:background">@drawable/tab_fondo_boton</item>
+    </style>
+
+    <style name="botonVolverVideo.SistemaSolar">
+        <item name="android:background">@drawable/tab_fondo_rojo_boton</item>
+    </style>
+
+    <style name="TablaTexto">
+        <item name="android:textSize">@dimen/texto_tabla</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:padding">@dimen/padding_5</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/texto_tabla</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">@integer/tabla_weight</item>
+    </style>
+
+    <style name="TablaTexto.Propiedad">
+        <item name="android:background">@drawable/celda_propiedad</item>
+        <item name="android:textColor">@color/texto_tabla_propiedad</item>
+    </style>
+
+    <style name="TablaTexto.PlanetaEnano">
+        <item name="android:background">@drawable/celda_propiedad</item>
+        <item name="android:textColor">@color/texto_texto_imagen</item>
+        <item name="android:gravity">left</item>
+    </style>
+    
+    <style name="TablaTexto.AcercaDe">
+        <item name="android:background">@drawable/celda_propiedad</item>
+        <item name="android:textColor">@color/texto_texto_imagen</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textSize">@dimen/texto_acerca_de</item>
+    </style>
+
+    <style name="TablaTexto.Planeta1">
+        <item name="android:background">@drawable/celda_planeta1</item>
+    </style>
+
+    <style name="TablaTexto.Planeta2">
+        <item name="android:background">@drawable/celda_planeta2</item>
+    </style>
+
+    <style name="TablaTexto.Selecciona">
+        <item name="android:textColor">@color/texto_tabla_selecciona</item>
+    </style>
+
+    <style name="TablaTexto.CabeceraPlaneta1">
+        <item name="android:background">@drawable/cabecera_planeta1</item>
+    </style>
+
+    <style name="TablaTexto.CabeceraPlaneta2">
+        <item name="android:background">@drawable/cabecera_planeta2</item>
+    </style>
+    
+    
+
+    
+    <style name="TextoEjercicios">
+        <item name="android:textSize">@dimen/texto_ejercicios</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textColor">@color/texto_ejercicios</item>
+        <item name="android:gravity">left</item>
+        <item name="android:padding">@dimen/padding_5</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    
+    
+    
+
+    <style name="Spinner">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/spinner_height</item>
+        <item name="android:layout_marginLeft">@dimen/spinner_marginLeftRight</item>
+        <item name="android:layout_marginRight">@dimen/spinner_marginLeftRight</item>
+        <item name="android:layout_marginBottom">@dimen/spinner_marginBottom</item>
+    </style>
+
+</resources>

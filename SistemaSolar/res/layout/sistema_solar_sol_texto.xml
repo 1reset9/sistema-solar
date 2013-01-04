@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Estructura -->
+
+        <Button
+            android:id="@+id/VerSolTextoEstructura"
+            style="@style/botonVer"
+            android:text="@string/titulo_estructura_sol" />
+
+        <TextView
+            android:id="@+id/SolTextoEstructura"
+            style="@style/TextoTexto"
+            android:text="@string/sol_texto_estructura" />
+
+        <TableLayout
+            android:id="@+id/TablaSolEstructura"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/sol_texto_estructura1" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/sol_texto_estructura2" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/sol_texto_estructura3" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/sol_texto_estructura4" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/sol_texto_estructura5" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/sol_texto_estructura6" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/sol_texto_estructura7" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/sol_texto_estructura8" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/sol_texto_estructura9" />
+            </TableRow>
+        </TableLayout>
+
+        <ImageView
+            android:id="@+id/SolTextoEstructuraI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/texto_sol_estructura" />
+
+        <TextView
+            android:id="@+id/SolTextoEstructuraC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Licencia_CCA3.0" />
+
+        <Button
+            android:id="@+id/OcultarSolTextoEstructura"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto HELIOSFERA -->
+
+        <Button
+            android:id="@+id/VerSolTextoHeliosfera"
+            style="@style/botonVer"
+            android:text="@string/titulo_heliosfera" />
+
+        <TextView
+            android:id="@+id/SolTextoHeliosfera1T"
+            style="@style/TextoTexto"
+            android:text="@string/sol_texto_heliosfera" />
+
+        <TextView
+            android:id="@+id/SolTextoHeliosfera2T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/sol_texto_heliosfera_imagen" />
+
+        <ImageView
+            android:id="@+id/SolTextoHeliosferaI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sol_texto_heliosfera" />
+
+        <TextView
+            android:id="@+id/SolTextoHeliosferaC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <Button
+            android:id="@+id/OcultarSolTextoHeliosfera"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto OBSERVACIÓN Y EXPLORACIÓN -->
+
+        <Button
+            android:id="@+id/VerSolObservacionExploracion"
+            style="@style/botonVer"
+            android:text="@string/titulo_sol_observacion_exploracion" />
+
+        <TextView
+            android:id="@+id/SolObservacionExploracion1T"
+            style="@style/TextoTexto"
+            android:text="@string/sol_texto_observacion_exploracion1" />
+
+        <TextView
+            android:id="@+id/SolObservacionExploracion2T"
+            style="@style/TextoTexto"
+            android:text="@string/sol_texto_observacion_exploracion2" />
+
+        <TextView
+            android:id="@+id/SolObservacionExploracion3T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/sol_texto_observacion_exploracion_imagen" />
+
+        <ImageView
+            android:id="@+id/SolObservacionExploracionI"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sol_texto_observacion_exploracion" />
+
+        <TextView
+            android:id="@+id/SolObservacionExploracionC"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <Button
+            android:id="@+id/OcultarSolObservacionExploracion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>

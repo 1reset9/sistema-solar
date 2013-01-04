@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10" >
+
+        <!-- Texto Estructura -->
+
+        <Button
+            android:id="@+id/VerTierraTextoEstructura"
+            style="@style/botonVer"
+            android:text="@string/titulo_estructura" />
+
+        <TextView
+            android:id="@+id/TierraTextoEstructura1T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_estructura1" />
+
+        <ImageView
+            android:id="@+id/TierraTextoEstructura2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tierra_texto_estructura_imagen1" />
+
+        <TextView
+            android:id="@+id/TierraTextoEstructura4T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_estructura2" />
+
+        <TableLayout
+            android:id="@+id/TierraTextoEstructura5"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margen_tabla"
+            android:layout_marginTop="@dimen/margen_tabla" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/tierra_texto_estructura3" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/tierra_texto_estructura4" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/TablaTexto.PlanetaEnano"
+                    android:text="@string/tierra_texto_estructura5" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/TierraTextoEstructura6T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_estructura6" />
+
+        <TextView
+            android:id="@+id/TierraTextoEstructura7T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_estructura7" />
+
+        <ImageView
+            android:id="@+id/TierraTextoEstructura8I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tierra_texto_estructura_imagen2" />
+
+        <Button
+            android:id="@+id/OcultarTierraTextoEstructura"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Superficie -->
+
+        <Button
+            android:id="@+id/VerTierraTextoSuperficie"
+            style="@style/botonVer"
+            android:text="@string/titulo_superficie" />
+
+        <TextView
+            android:id="@+id/Superficie1T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_superficie1" />
+
+        <ImageView
+            android:id="@+id/Superficie2I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tierra_texto_superficie_imagen1" />
+
+        <TextView
+            android:id="@+id/Superficie3C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/Superficie4T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_superficie2" />
+
+        <TextView
+            android:id="@+id/Superficie5T"
+            style="@style/TextoTexto.Imagen"
+            android:text="@string/tierra_texto_superficie3" />
+
+        <ImageView
+            android:id="@+id/Superficie6I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tierra_texto_superficie_imagen2" />
+
+        <TextView
+            android:id="@+id/Superficie7C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_LPI" />
+
+        <TextView
+            android:id="@+id/Superficie8T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_superficie4" />
+
+        <TextView
+            android:id="@+id/Superficie9T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_superficie5" />
+
+        <Button
+            android:id="@+id/OcultarTierraTextoSuperficie"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+
+        <!-- Texto Orbita Rotacion -->
+
+        <Button
+            android:id="@+id/VerTierraTextoOrbitaRotacion"
+            style="@style/botonVer"
+            android:text="@string/titulo_orbita_rotacion" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion1T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_orbita_rotacion1" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion2T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_orbita_rotacion2" />
+
+        <ImageView
+            android:id="@+id/OrbitaRotacion3I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tierra_texto_orbita_rotacion_imagen1" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion4C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion5T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_orbita_rotacion3" />
+
+        <ImageView
+            android:id="@+id/OrbitaRotacion6I"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tierra_texto_orbita_rotacion_imagen2" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion7C"
+            style="@style/TextoFotosCredito"
+            android:text="@string/Credit_NASA" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion8T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_orbita_rotacion4" />
+
+        <TextView
+            android:id="@+id/OrbitaRotacion9T"
+            style="@style/TextoTexto"
+            android:text="@string/tierra_texto_orbita_rotacion5" />
+
+        <Button
+            android:id="@+id/OcultarTierraTextoOrbitaRotacion"
+            style="@style/botonOcultar"
+            android:text="@string/ocultar_texto" />
+    </LinearLayout>
+
+</ScrollView>
